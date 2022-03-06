@@ -1,0 +1,156 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\newif\ifanswers
+\answerstrue % comment out to hide answers
+
+\usepackage[compact]{titlesec}
+\usepackage{fancyhdr} % Required for custom headers
+\usepackage{lastpage} % Required to determine the last page for the footer
+\usepackage{extramarks} % Required for headers and footers
+\usepackage[usenames,dvipsnames]{color} % Required for custom colors
+\usepackage{graphicx} % Required to insert images
+\usepackage{listings} % Required for insertion of code
+\usepackage{courier} % Required for the courier font
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{subfigure}
+\usepackage{booktabs}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{caption}
+\usepackage{hyperref}
+\captionsetup[table]{skip=4pt}
+\usepackage{framed}
+\usepackage{bm}
+\usepackage{minted}
+
+\usepackage{tikz}
+\usetikzlibrary{positioning,patterns,fit}
+
+% Margins
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\linespread{1.1} % Line spacing
+
+% Set up the header and footer
+\pagestyle{fancy}
+\rhead{\hmwkAuthorName} % Top left header
+\lhead{\hmwkClass: \hmwkTitle} % Top center head
+\lfoot{\lastxmark} % Bottom left footer
+\cfoot{} % Bottom center footer
+\rfoot{Page\ \thepage\ of\ \protect\pageref{LastPage}} % Bottom right footer
+\renewcommand\headrulewidth{0.4pt} % Size of the header rule
+\renewcommand\footrulewidth{0.4pt} % Size of the footer rule
+
+\setlength\parindent{0pt} % Removes all indentation from paragraphs
+
+\newenvironment{answer}{
+    % Uncomment this if using the template to write out your solutions.
+    {\bf Answer:} \sf \begingroup\color{black}
+}{\endgroup}%
+%----------------------------------------------------------------------------------------
+%	CODE INCLUSION CONFIGURATION
+%----------------------------------------------------------------------------------------
+
+\definecolor{MyDarkGreen}{rgb}{0.0,0.4,0.0} % This is the color used for comments
+\definecolor{shadecolor}{gray}{0.9}
+
+\lstloadlanguages{Python} % Load Perl syntax for listings, for a list of other languages supported see: ftp://ftp.tex.ac.uk/tex-archive/macros/latex/contrib/listings/listings.pdf
+\lstset{language=Python, % Use Perl in this example
+        frame=single, % Single frame around code
+        basicstyle=\footnotesize\ttfamily, % Use small true type font
+        keywordstyle=[1]\color{Blue}\bf, % Perl functions bold and blue
+        keywordstyle=[2]\color{Purple}, % Perl function arguments purple
+        keywordstyle=[3]\color{Blue}\underbar, % Custom functions underlined and blue
+        identifierstyle=, % Nothing special about identifiers
+        commentstyle=\usefont{T1}{pcr}{m}{sl}\color{MyDarkGreen}\small, % Comments small dark green courier font
+        stringstyle=\color{Purple}, % Strings are purple
+        showstringspaces=false, % Don't put marks in string spaces
+        tabsize=5, % 5 spaces per tab
+        %
+        % Put standard Perl functions not included in the default language here
+        morekeywords={rand},
+        %
+        % Put Perl function parameters here
+        morekeywords=[2]{on, off, interp},
+        %
+        % Put user defined functions here
+        morekeywords=[3]{test},
+       	%
+        morecomment=[l][\color{Blue}]{...}, % Line continuation (...) like blue comment
+        numbers=left, % Line numbers on left
+        firstnumber=1, % Line numbers start with line 1
+        numberstyle=\tiny\color{Blue}, % Line numbers are blue and small
+        stepnumber=5 % Line numbers go in steps of 5
+}
+
+% Creates a new command to include a perl script, the first parameter is the filename of the script (without .pl), the second parameter is the caption
+\newcommand{\perlscript}[2]{
+\begin{itemize}
+\item[]\lstinputlisting[caption=#2,label=#1]{#1.pl}
+\end{itemize}
+}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CLASS SECTION
+%----------------------------------------------------------------------------------------
+
+\newcommand{\hmwkTitle}{Tiến trình (Processes)} % Assignment title
+\newcommand{\hmwkClass}{INT2214 Assignment \#2} % Course/class
+\newcommand{\hmwkAuthorName}{Nguyễn Thành Đô - 19020250} % Your name
+
+\newcommand{\ifans}[1]{\ifanswers \color{red} \vspace{5mm} \textbf{Solution: } #1 \color{black} \vspace{5mm} \fi}
+
+% Chris' notes
+\definecolor{CMpurple}{rgb}{0.6,0.18,0.64}
+\newcommand\cm[1]{\textcolor{CMpurple}{\small\textsf{\bfseries CM\@: #1}}}
+\newcommand\cmm[1]{\marginpar{\small\raggedright\textcolor{CMpurple}{\textsf{\bfseries CM\@: #1}}}}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+\title{
+\vspace{-1in}
+\textmd{\textbf{\hmwkClass:\ \hmwkTitle} \\ \hmwkAuthorName}\\ 
+}
+\author{\textbf{Giảng viên: } Bùi Duy Hiếu}
+%\date{\textit{\small Updated \today\ at \currenttime}} % Insert date here if you want it to appear below your name
+\date{}
+
+\setcounter{section}{0} % one-indexing
+\begin{document}
+
+\maketitle
+\vspace{-.4in}
+
+\begin{center}
+    \large{\textbf{Due on} Tuesday Jan. 18, 2022 by \textbf{3:15pm (before class)}}
+\end{center}
+
+\section{Bài toán Bữa ăn của các nhà triết học}
+Có 5 nhà triết học ngồi trong một chiếc bàn tròn. Mỗi nhà triết học có một đĩa spaghetti. Vì spaghetti rất trơn nên mỗi nhà triết học phải dùng 2 chiếc nĩa để ăn. Giữa hai đĩa spaghetti chỉ có một chiếc nĩa. Vòng đời của nhà triết học là một chuỗi liên tiếp ăn và nghĩ. Khi nhà triết học đói, họ sẽ lấy nĩa bên trái và phải của minh cùng lúc. Nếu thành công, họ sẽ ăn một lúc rồi để nĩa xuống, rồi tiếp tục nghĩ. \\ 
+
+\textbf{Yêu cầu: }Viết chương trình mô phỏng hành động các nhà triết học trên sao cho không xảy ra tình huống bế tắc.
+
+\begin{shaded}
+    \begin{answer}
+        Đợi anh Quang Huy.
+    \end{answer}
+\end{shaded}
+
+\section{Bài toán Nhà sản xuất – Người dùng}
+Hai tiến trình chia sẻ một vùng đệm có kích thước cố định, trao đổi với nhau qua phương thức trao đổi thông điệp. Nhà sản xuất muốn đưa thông tin lên vùng đệm, còn người dùng muốn lấy thông tin từ vùng đệm.
+Giả định tình huống vùng đệm đầy mà nhà sản xuất vẫn muốn đưa thông tin lên. Vậy nhà sản xuất phải chuyển sang trạng thái ngủ, được đánh thức bởi người dùng khi họ lấy thông tin từ vùng đệm. Tương tự, khi vùng đệm trống và người dùng muốn lấy thông tin từ vùng đệm, thì người dùng sẽ chuyển sang trạng thái ngủ và được đánh thức bởi nhà sản xuất khi họ đưa thông tin lên vùng đệm. \\ 
+
+\textbf{Yêu cầu: }Viết chương trình minh hoạ cho tình huống trên.
+\begin{shaded}
+    \begin{answer}
+        Đợi anh Minh Trương.
+    \end{answer}
+\end{shaded}
+\end{document}

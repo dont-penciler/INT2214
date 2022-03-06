@@ -1,0 +1,2101 @@
+  0 Total blocktime:     0 :     0     0     0     0     0 
+  0 Philosopher 0 thinking for 4 seconds
+  0 Philosopher 1 thinking for 4 seconds
+  0 Philosopher 2 thinking for 3 seconds
+  0 Philosopher 3 thinking for 4 seconds
+  0 Philosopher 4 thinking for 9 seconds
+  3 Philosopher 2 no longer thinking -- calling pickup()
+  3 Philosopher 2 eating for 8 seconds
+  4 Philosopher 0 no longer thinking -- calling pickup()
+  4 Philosopher 0 eating for 10 seconds
+  4 Philosopher 1 no longer thinking -- calling pickup()
+  4 Philosopher 3 no longer thinking -- calling pickup()
+  9 Philosopher 4 no longer thinking -- calling pickup()
+ 10 Total blocktime:    13 :     0     6     0     6     1 
+ 11 Philosopher 2 no longer eating -- calling putdown()
+ 11 Philosopher 2 thinking for 3 seconds
+ 14 Philosopher 0 no longer eating -- calling putdown()
+ 14 Philosopher 0 thinking for 1 second
+ 14 Philosopher 2 no longer thinking -- calling pickup()
+ 14 Philosopher 4 eating for 5 seconds
+ 15 Philosopher 0 no longer thinking -- calling pickup()
+ 19 Philosopher 4 no longer eating -- calling putdown()
+ 19 Philosopher 4 thinking for 8 seconds
+ 19 Philosopher 3 eating for 1 second
+ 20 Total blocktime:    47 :     5    16     6    15     5 
+ 20 Philosopher 3 no longer eating -- calling putdown()
+ 20 Philosopher 3 thinking for 8 seconds
+ 20 Philosopher 2 eating for 4 seconds
+ 24 Philosopher 2 no longer eating -- calling putdown()
+ 24 Philosopher 2 thinking for 2 seconds
+ 24 Philosopher 1 eating for 5 seconds
+ 26 Philosopher 2 no longer thinking -- calling pickup()
+ 27 Philosopher 4 no longer thinking -- calling pickup()
+ 28 Philosopher 3 no longer thinking -- calling pickup()
+ 29 Philosopher 1 no longer eating -- calling putdown()
+ 29 Philosopher 1 thinking for 4 seconds
+ 29 Philosopher 0 eating for 8 seconds
+ 30 Total blocktime:    69 :    14    20    10    17     8 
+ 33 Philosopher 1 no longer thinking -- calling pickup()
+ 37 Philosopher 0 no longer eating -- calling putdown()
+ 37 Philosopher 0 thinking for 7 seconds
+ 37 Philosopher 4 eating for 9 seconds
+ 40 Total blocktime:   103 :    14    27    20    27    15 
+ 44 Philosopher 0 no longer thinking -- calling pickup()
+ 46 Philosopher 4 no longer eating -- calling putdown()
+ 46 Philosopher 4 thinking for 8 seconds
+ 46 Philosopher 3 eating for 10 seconds
+ 50 Total blocktime:   135 :    20    37    30    33    15 
+ 54 Philosopher 4 no longer thinking -- calling pickup()
+ 56 Philosopher 3 no longer eating -- calling putdown()
+ 56 Philosopher 3 thinking for 10 seconds
+ 56 Philosopher 2 eating for 1 second
+ 57 Philosopher 2 no longer eating -- calling putdown()
+ 57 Philosopher 2 thinking for 7 seconds
+ 57 Philosopher 1 eating for 10 seconds
+ 60 Total blocktime:   164 :    30    44    36    33    21 
+ 64 Philosopher 2 no longer thinking -- calling pickup()
+ 66 Philosopher 3 no longer thinking -- calling pickup()
+ 67 Philosopher 1 no longer eating -- calling putdown()
+ 67 Philosopher 1 thinking for 6 seconds
+ 67 Philosopher 0 eating for 1 second
+ 68 Philosopher 0 no longer eating -- calling putdown()
+ 68 Philosopher 0 thinking for 10 seconds
+ 68 Philosopher 4 eating for 5 seconds
+ 70 Total blocktime:   189 :    37    44    42    37    29 
+ 73 Philosopher 1 no longer thinking -- calling pickup()
+ 73 Philosopher 4 no longer eating -- calling putdown()
+ 73 Philosopher 4 thinking for 9 seconds
+ 73 Philosopher 3 eating for 5 seconds
+ 78 Philosopher 0 no longer thinking -- calling pickup()
+ 78 Philosopher 3 no longer eating -- calling putdown()
+ 78 Philosopher 3 thinking for 8 seconds
+ 78 Philosopher 2 eating for 1 second
+ 79 Philosopher 2 no longer eating -- calling putdown()
+ 79 Philosopher 2 thinking for 8 seconds
+ 79 Philosopher 1 eating for 7 seconds
+ 80 Total blocktime:   208 :    39    50    50    40    29 
+ 82 Philosopher 4 no longer thinking -- calling pickup()
+ 86 Philosopher 3 no longer thinking -- calling pickup()
+ 86 Philosopher 1 no longer eating -- calling putdown()
+ 86 Philosopher 1 thinking for 10 seconds
+ 86 Philosopher 0 eating for 8 seconds
+ 87 Philosopher 2 no longer thinking -- calling pickup()
+ 90 Total blocktime:   229 :    45    50    53    44    37 
+ 94 Philosopher 0 no longer eating -- calling putdown()
+ 94 Philosopher 0 thinking for 1 second
+ 94 Philosopher 4 eating for 10 seconds
+ 95 Philosopher 0 no longer thinking -- calling pickup()
+ 96 Philosopher 1 no longer thinking -- calling pickup()
+100 Total blocktime:   262 :    50    54    63    54    41 
+104 Philosopher 4 no longer eating -- calling putdown()
+104 Philosopher 4 thinking for 4 seconds
+104 Philosopher 3 eating for 9 seconds
+108 Philosopher 4 no longer thinking -- calling pickup()
+110 Total blocktime:   298 :    60    64    73    58    43 
+113 Philosopher 3 no longer eating -- calling putdown()
+113 Philosopher 3 thinking for 3 seconds
+113 Philosopher 2 eating for 2 seconds
+115 Philosopher 2 no longer eating -- calling putdown()
+115 Philosopher 2 thinking for 4 seconds
+115 Philosopher 1 eating for 4 seconds
+116 Philosopher 3 no longer thinking -- calling pickup()
+119 Philosopher 2 no longer thinking -- calling pickup()
+119 Philosopher 1 no longer eating -- calling putdown()
+119 Philosopher 1 thinking for 6 seconds
+119 Philosopher 0 eating for 7 seconds
+120 Total blocktime:   330 :    69    69    77    62    53 
+125 Philosopher 1 no longer thinking -- calling pickup()
+126 Philosopher 0 no longer eating -- calling putdown()
+126 Philosopher 0 thinking for 4 seconds
+126 Philosopher 4 eating for 5 seconds
+130 Total blocktime:   361 :    69    74    87    72    59 
+130 Philosopher 0 no longer thinking -- calling pickup()
+131 Philosopher 4 no longer eating -- calling putdown()
+131 Philosopher 4 thinking for 7 seconds
+131 Philosopher 3 eating for 1 second
+132 Philosopher 3 no longer eating -- calling putdown()
+132 Philosopher 3 thinking for 4 seconds
+132 Philosopher 2 eating for 6 seconds
+136 Philosopher 3 no longer thinking -- calling pickup()
+138 Philosopher 4 no longer thinking -- calling pickup()
+138 Philosopher 2 no longer eating -- calling putdown()
+138 Philosopher 2 thinking for 3 seconds
+138 Philosopher 1 eating for 10 seconds
+140 Total blocktime:   388 :    79    82    89    77    61 
+141 Philosopher 2 no longer thinking -- calling pickup()
+148 Philosopher 1 no longer eating -- calling putdown()
+148 Philosopher 1 thinking for 6 seconds
+148 Philosopher 0 eating for 10 seconds
+150 Total blocktime:   425 :    87    82    98    87    71 
+154 Philosopher 1 no longer thinking -- calling pickup()
+158 Philosopher 0 no longer eating -- calling putdown()
+158 Philosopher 0 thinking for 10 seconds
+158 Philosopher 4 eating for 7 seconds
+160 Total blocktime:   459 :    87    88   108    97    79 
+165 Philosopher 4 no longer eating -- calling putdown()
+165 Philosopher 4 thinking for 5 seconds
+165 Philosopher 3 eating for 8 seconds
+168 Philosopher 0 no longer thinking -- calling pickup()
+170 Total blocktime:   486 :    89    98   118   102    79 
+170 Philosopher 4 no longer thinking -- calling pickup()
+173 Philosopher 3 no longer eating -- calling putdown()
+173 Philosopher 3 thinking for 1 second
+173 Philosopher 2 eating for 2 seconds
+174 Philosopher 3 no longer thinking -- calling pickup()
+175 Philosopher 2 no longer eating -- calling putdown()
+175 Philosopher 2 thinking for 8 seconds
+175 Philosopher 1 eating for 8 seconds
+180 Total blocktime:   520 :    99   103   121   108    89 
+183 Philosopher 2 no longer thinking -- calling pickup()
+183 Philosopher 1 no longer eating -- calling putdown()
+183 Philosopher 1 thinking for 10 seconds
+183 Philosopher 0 eating for 8 seconds
+190 Total blocktime:   550 :   102   103   128   118    99 
+191 Philosopher 0 no longer eating -- calling putdown()
+191 Philosopher 0 thinking for 7 seconds
+191 Philosopher 4 eating for 3 seconds
+193 Philosopher 1 no longer thinking -- calling pickup()
+194 Philosopher 4 no longer eating -- calling putdown()
+194 Philosopher 4 thinking for 9 seconds
+194 Philosopher 3 eating for 1 second
+195 Philosopher 3 no longer eating -- calling putdown()
+195 Philosopher 3 thinking for 3 seconds
+195 Philosopher 2 eating for 1 second
+196 Philosopher 2 no longer eating -- calling putdown()
+196 Philosopher 2 thinking for 4 seconds
+196 Philosopher 1 eating for 6 seconds
+198 Philosopher 0 no longer thinking -- calling pickup()
+198 Philosopher 3 no longer thinking -- calling pickup()
+198 Philosopher 3 eating for 7 seconds
+200 Total blocktime:   565 :   104   106   133   122   100 
+200 Philosopher 2 no longer thinking -- calling pickup()
+202 Philosopher 1 no longer eating -- calling putdown()
+202 Philosopher 1 thinking for 1 second
+202 Philosopher 0 eating for 4 seconds
+203 Philosopher 4 no longer thinking -- calling pickup()
+203 Philosopher 1 no longer thinking -- calling pickup()
+205 Philosopher 3 no longer eating -- calling putdown()
+205 Philosopher 3 thinking for 2 seconds
+205 Philosopher 2 eating for 5 seconds
+206 Philosopher 0 no longer eating -- calling putdown()
+206 Philosopher 0 thinking for 10 seconds
+206 Philosopher 4 eating for 2 seconds
+207 Philosopher 3 no longer thinking -- calling pickup()
+208 Philosopher 4 no longer eating -- calling putdown()
+208 Philosopher 4 thinking for 9 seconds
+210 Total blocktime:   585 :   106   113   138   125   103 
+210 Philosopher 2 no longer eating -- calling putdown()
+210 Philosopher 2 thinking for 5 seconds
+210 Philosopher 3 eating for 7 seconds
+210 Philosopher 1 eating for 10 seconds
+215 Philosopher 2 no longer thinking -- calling pickup()
+216 Philosopher 0 no longer thinking -- calling pickup()
+217 Philosopher 3 no longer eating -- calling putdown()
+217 Philosopher 3 thinking for 2 seconds
+217 Philosopher 4 no longer thinking -- calling pickup()
+219 Philosopher 3 no longer thinking -- calling pickup()
+220 Total blocktime:   598 :   110   113   143   126   106 
+220 Philosopher 1 no longer eating -- calling putdown()
+220 Philosopher 1 thinking for 8 seconds
+220 Philosopher 0 eating for 10 seconds
+228 Philosopher 1 no longer thinking -- calling pickup()
+230 Total blocktime:   630 :   110   115   153   136   116 
+230 Philosopher 0 no longer eating -- calling putdown()
+230 Philosopher 0 thinking for 10 seconds
+230 Philosopher 4 eating for 2 seconds
+232 Philosopher 4 no longer eating -- calling putdown()
+232 Philosopher 4 thinking for 9 seconds
+232 Philosopher 3 eating for 10 seconds
+240 Total blocktime:   652 :   110   125   163   138   116 
+240 Philosopher 0 no longer thinking -- calling pickup()
+241 Philosopher 4 no longer thinking -- calling pickup()
+242 Philosopher 3 no longer eating -- calling putdown()
+242 Philosopher 3 thinking for 6 seconds
+242 Philosopher 2 eating for 9 seconds
+248 Philosopher 3 no longer thinking -- calling pickup()
+250 Total blocktime:   685 :   120   135   165   140   125 
+251 Philosopher 2 no longer eating -- calling putdown()
+251 Philosopher 2 thinking for 10 seconds
+251 Philosopher 1 eating for 5 seconds
+256 Philosopher 1 no longer eating -- calling putdown()
+256 Philosopher 1 thinking for 6 seconds
+256 Philosopher 0 eating for 8 seconds
+260 Total blocktime:   712 :   126   136   165   150   135 
+261 Philosopher 2 no longer thinking -- calling pickup()
+262 Philosopher 1 no longer thinking -- calling pickup()
+264 Philosopher 0 no longer eating -- calling putdown()
+264 Philosopher 0 thinking for 7 seconds
+264 Philosopher 4 eating for 6 seconds
+270 Total blocktime:   743 :   126   144   174   160   139 
+270 Philosopher 4 no longer eating -- calling putdown()
+270 Philosopher 4 thinking for 8 seconds
+270 Philosopher 3 eating for 9 seconds
+271 Philosopher 0 no longer thinking -- calling pickup()
+278 Philosopher 4 no longer thinking -- calling pickup()
+279 Philosopher 3 no longer eating -- calling putdown()
+279 Philosopher 3 thinking for 9 seconds
+279 Philosopher 2 eating for 3 seconds
+280 Total blocktime:   773 :   135   154   183   160   141 
+282 Philosopher 2 no longer eating -- calling putdown()
+282 Philosopher 2 thinking for 6 seconds
+282 Philosopher 1 eating for 7 seconds
+288 Philosopher 3 no longer thinking -- calling pickup()
+288 Philosopher 2 no longer thinking -- calling pickup()
+289 Philosopher 1 no longer eating -- calling putdown()
+289 Philosopher 1 thinking for 4 seconds
+289 Philosopher 0 eating for 9 seconds
+290 Total blocktime:   798 :   144   156   185   162   151 
+293 Philosopher 1 no longer thinking -- calling pickup()
+298 Philosopher 0 no longer eating -- calling putdown()
+298 Philosopher 0 thinking for 8 seconds
+298 Philosopher 4 eating for 10 seconds
+300 Total blocktime:   833 :   144   163   195   172   159 
+306 Philosopher 0 no longer thinking -- calling pickup()
+308 Philosopher 4 no longer eating -- calling putdown()
+308 Philosopher 4 thinking for 10 seconds
+308 Philosopher 3 eating for 1 second
+309 Philosopher 3 no longer eating -- calling putdown()
+309 Philosopher 3 thinking for 10 seconds
+309 Philosopher 2 eating for 7 seconds
+310 Total blocktime:   864 :   148   173   204   180   159 
+316 Philosopher 2 no longer eating -- calling putdown()
+316 Philosopher 2 thinking for 9 seconds
+316 Philosopher 1 eating for 10 seconds
+318 Philosopher 4 no longer thinking -- calling pickup()
+319 Philosopher 3 no longer thinking -- calling pickup()
+320 Total blocktime:   883 :   158   179   204   181   161 
+325 Philosopher 2 no longer thinking -- calling pickup()
+326 Philosopher 1 no longer eating -- calling putdown()
+326 Philosopher 1 thinking for 8 seconds
+326 Philosopher 0 eating for 7 seconds
+330 Total blocktime:   914 :   164   179   209   191   171 
+333 Philosopher 0 no longer eating -- calling putdown()
+333 Philosopher 0 thinking for 1 second
+333 Philosopher 4 eating for 8 seconds
+334 Philosopher 1 no longer thinking -- calling pickup()
+334 Philosopher 0 no longer thinking -- calling pickup()
+340 Total blocktime:   949 :   170   185   219   201   174 
+341 Philosopher 4 no longer eating -- calling putdown()
+341 Philosopher 4 thinking for 8 seconds
+341 Philosopher 3 eating for 1 second
+342 Philosopher 3 no longer eating -- calling putdown()
+342 Philosopher 3 thinking for 9 seconds
+342 Philosopher 2 eating for 5 seconds
+347 Philosopher 2 no longer eating -- calling putdown()
+347 Philosopher 2 thinking for 9 seconds
+347 Philosopher 1 eating for 8 seconds
+349 Philosopher 4 no longer thinking -- calling pickup()
+350 Total blocktime:   970 :   180   192   221   202   175 
+351 Philosopher 3 no longer thinking -- calling pickup()
+355 Philosopher 1 no longer eating -- calling putdown()
+355 Philosopher 1 thinking for 10 seconds
+355 Philosopher 0 eating for 6 seconds
+356 Philosopher 2 no longer thinking -- calling pickup()
+360 Total blocktime:   998 :   185   192   225   211   185 
+361 Philosopher 0 no longer eating -- calling putdown()
+361 Philosopher 0 thinking for 6 seconds
+361 Philosopher 4 eating for 8 seconds
+365 Philosopher 1 no longer thinking -- calling pickup()
+367 Philosopher 0 no longer thinking -- calling pickup()
+369 Philosopher 4 no longer eating -- calling putdown()
+369 Philosopher 4 thinking for 2 seconds
+369 Philosopher 3 eating for 5 seconds
+370 Total blocktime:  1026 :   188   197   235   220   186 
+371 Philosopher 4 no longer thinking -- calling pickup()
+374 Philosopher 3 no longer eating -- calling putdown()
+374 Philosopher 3 thinking for 9 seconds
+374 Philosopher 2 eating for 10 seconds
+380 Total blocktime:  1059 :   198   207   239   220   195 
+383 Philosopher 3 no longer thinking -- calling pickup()
+384 Philosopher 2 no longer eating -- calling putdown()
+384 Philosopher 2 thinking for 10 seconds
+384 Philosopher 1 eating for 6 seconds
+390 Total blocktime:  1090 :   208   211   239   227   205 
+390 Philosopher 1 no longer eating -- calling putdown()
+390 Philosopher 1 thinking for 8 seconds
+390 Philosopher 0 eating for 3 seconds
+393 Philosopher 0 no longer eating -- calling putdown()
+393 Philosopher 0 thinking for 5 seconds
+393 Philosopher 4 eating for 5 seconds
+394 Philosopher 2 no longer thinking -- calling pickup()
+398 Philosopher 1 no longer thinking -- calling pickup()
+398 Philosopher 0 no longer thinking -- calling pickup()
+398 Philosopher 4 no longer eating -- calling putdown()
+398 Philosopher 4 thinking for 4 seconds
+398 Philosopher 3 eating for 6 seconds
+400 Total blocktime:  1111 :   210   213   245   235   208 
+402 Philosopher 4 no longer thinking -- calling pickup()
+404 Philosopher 3 no longer eating -- calling putdown()
+404 Philosopher 3 thinking for 5 seconds
+404 Philosopher 2 eating for 4 seconds
+408 Philosopher 2 no longer eating -- calling putdown()
+408 Philosopher 2 thinking for 2 seconds
+408 Philosopher 1 eating for 4 seconds
+409 Philosopher 3 no longer thinking -- calling pickup()
+410 Total blocktime:  1142 :   220   221   249   236   216 
+410 Philosopher 2 no longer thinking -- calling pickup()
+412 Philosopher 1 no longer eating -- calling putdown()
+412 Philosopher 1 thinking for 5 seconds
+412 Philosopher 0 eating for 2 seconds
+414 Philosopher 0 no longer eating -- calling putdown()
+414 Philosopher 0 thinking for 2 seconds
+414 Philosopher 4 eating for 7 seconds
+416 Philosopher 0 no longer thinking -- calling pickup()
+417 Philosopher 1 no longer thinking -- calling pickup()
+420 Total blocktime:  1175 :   226   224   259   246   220 
+421 Philosopher 4 no longer eating -- calling putdown()
+421 Philosopher 4 thinking for 1 second
+421 Philosopher 3 eating for 9 seconds
+422 Philosopher 4 no longer thinking -- calling pickup()
+430 Total blocktime:  1214 :   236   234   269   247   228 
+430 Philosopher 3 no longer eating -- calling putdown()
+430 Philosopher 3 thinking for 7 seconds
+430 Philosopher 2 eating for 9 seconds
+437 Philosopher 3 no longer thinking -- calling pickup()
+439 Philosopher 2 no longer eating -- calling putdown()
+439 Philosopher 2 thinking for 6 seconds
+439 Philosopher 1 eating for 6 seconds
+440 Total blocktime:  1246 :   246   243   269   250   238 
+445 Philosopher 2 no longer thinking -- calling pickup()
+445 Philosopher 1 no longer eating -- calling putdown()
+445 Philosopher 1 thinking for 9 seconds
+445 Philosopher 0 eating for 5 seconds
+450 Total blocktime:  1276 :   251   243   274   260   248 
+450 Philosopher 0 no longer eating -- calling putdown()
+450 Philosopher 0 thinking for 1 second
+450 Philosopher 4 eating for 6 seconds
+451 Philosopher 0 no longer thinking -- calling pickup()
+454 Philosopher 1 no longer thinking -- calling pickup()
+456 Philosopher 4 no longer eating -- calling putdown()
+456 Philosopher 4 thinking for 4 seconds
+456 Philosopher 3 eating for 4 seconds
+460 Total blocktime:  1307 :   260   249   284   266   248 
+460 Philosopher 4 no longer thinking -- calling pickup()
+460 Philosopher 3 no longer eating -- calling putdown()
+460 Philosopher 3 thinking for 10 seconds
+460 Philosopher 2 eating for 4 seconds
+464 Philosopher 2 no longer eating -- calling putdown()
+464 Philosopher 2 thinking for 5 seconds
+464 Philosopher 1 eating for 1 second
+465 Philosopher 1 no longer eating -- calling putdown()
+465 Philosopher 1 thinking for 10 seconds
+465 Philosopher 0 eating for 2 seconds
+467 Philosopher 0 no longer eating -- calling putdown()
+467 Philosopher 0 thinking for 5 seconds
+467 Philosopher 4 eating for 6 seconds
+469 Philosopher 2 no longer thinking -- calling pickup()
+469 Philosopher 2 eating for 6 seconds
+470 Total blocktime:  1323 :   265   253   284   266   255 
+470 Philosopher 3 no longer thinking -- calling pickup()
+472 Philosopher 0 no longer thinking -- calling pickup()
+473 Philosopher 4 no longer eating -- calling putdown()
+473 Philosopher 4 thinking for 9 seconds
+473 Philosopher 0 eating for 1 second
+474 Philosopher 0 no longer eating -- calling putdown()
+474 Philosopher 0 thinking for 3 seconds
+475 Philosopher 2 no longer eating -- calling putdown()
+475 Philosopher 2 thinking for 4 seconds
+475 Philosopher 3 eating for 3 seconds
+475 Philosopher 1 no longer thinking -- calling pickup()
+475 Philosopher 1 eating for 8 seconds
+477 Philosopher 0 no longer thinking -- calling pickup()
+478 Philosopher 3 no longer eating -- calling putdown()
+478 Philosopher 3 thinking for 8 seconds
+479 Philosopher 2 no longer thinking -- calling pickup()
+480 Total blocktime:  1333 :   269   253   285   271   255 
+482 Philosopher 4 no longer thinking -- calling pickup()
+483 Philosopher 1 no longer eating -- calling putdown()
+483 Philosopher 1 thinking for 4 seconds
+483 Philosopher 2 eating for 9 seconds
+483 Philosopher 0 eating for 4 seconds
+486 Philosopher 3 no longer thinking -- calling pickup()
+487 Philosopher 1 no longer thinking -- calling pickup()
+487 Philosopher 0 no longer eating -- calling putdown()
+487 Philosopher 0 thinking for 4 seconds
+487 Philosopher 4 eating for 9 seconds
+490 Total blocktime:  1351 :   272   256   288   275   260 
+491 Philosopher 0 no longer thinking -- calling pickup()
+492 Philosopher 2 no longer eating -- calling putdown()
+492 Philosopher 2 thinking for 2 seconds
+492 Philosopher 1 eating for 4 seconds
+494 Philosopher 2 no longer thinking -- calling pickup()
+496 Philosopher 1 no longer eating -- calling putdown()
+496 Philosopher 1 thinking for 4 seconds
+496 Philosopher 4 no longer eating -- calling putdown()
+496 Philosopher 4 thinking for 7 seconds
+496 Philosopher 0 eating for 2 seconds
+496 Philosopher 3 eating for 10 seconds
+498 Philosopher 0 no longer eating -- calling putdown()
+498 Philosopher 0 thinking for 10 seconds
+500 Total blocktime:  1370 :   277   258   294   281   260 
+500 Philosopher 1 no longer thinking -- calling pickup()
+503 Philosopher 4 no longer thinking -- calling pickup()
+506 Philosopher 3 no longer eating -- calling putdown()
+506 Philosopher 3 thinking for 7 seconds
+506 Philosopher 4 eating for 6 seconds
+506 Philosopher 2 eating for 3 seconds
+508 Philosopher 0 no longer thinking -- calling pickup()
+509 Philosopher 2 no longer eating -- calling putdown()
+509 Philosopher 2 thinking for 9 seconds
+509 Philosopher 1 eating for 9 seconds
+510 Total blocktime:  1390 :   279   267   300   281   263 
+512 Philosopher 4 no longer eating -- calling putdown()
+512 Philosopher 4 thinking for 8 seconds
+513 Philosopher 3 no longer thinking -- calling pickup()
+513 Philosopher 3 eating for 9 seconds
+518 Philosopher 2 no longer thinking -- calling pickup()
+518 Philosopher 1 no longer eating -- calling putdown()
+518 Philosopher 1 thinking for 10 seconds
+518 Philosopher 0 eating for 1 second
+519 Philosopher 0 no longer eating -- calling putdown()
+519 Philosopher 0 thinking for 4 seconds
+520 Total blocktime:  1400 :   287   267   302   281   263 
+520 Philosopher 4 no longer thinking -- calling pickup()
+522 Philosopher 3 no longer eating -- calling putdown()
+522 Philosopher 3 thinking for 5 seconds
+522 Philosopher 4 eating for 9 seconds
+522 Philosopher 2 eating for 4 seconds
+523 Philosopher 0 no longer thinking -- calling pickup()
+526 Philosopher 2 no longer eating -- calling putdown()
+526 Philosopher 2 thinking for 6 seconds
+527 Philosopher 3 no longer thinking -- calling pickup()
+528 Philosopher 1 no longer thinking -- calling pickup()
+528 Philosopher 1 eating for 1 second
+529 Philosopher 1 no longer eating -- calling putdown()
+529 Philosopher 1 thinking for 7 seconds
+530 Total blocktime:  1414 :   294   267   304   284   265 
+531 Philosopher 4 no longer eating -- calling putdown()
+531 Philosopher 4 thinking for 10 seconds
+531 Philosopher 0 eating for 10 seconds
+531 Philosopher 3 eating for 6 seconds
+532 Philosopher 2 no longer thinking -- calling pickup()
+536 Philosopher 1 no longer thinking -- calling pickup()
+537 Philosopher 3 no longer eating -- calling putdown()
+537 Philosopher 3 thinking for 3 seconds
+537 Philosopher 2 eating for 8 seconds
+540 Total blocktime:  1425 :   295   271   309   285   265 
+540 Philosopher 3 no longer thinking -- calling pickup()
+541 Philosopher 4 no longer thinking -- calling pickup()
+541 Philosopher 0 no longer eating -- calling putdown()
+541 Philosopher 0 thinking for 1 second
+541 Philosopher 4 eating for 8 seconds
+542 Philosopher 0 no longer thinking -- calling pickup()
+545 Philosopher 2 no longer eating -- calling putdown()
+545 Philosopher 2 thinking for 6 seconds
+545 Philosopher 1 eating for 2 seconds
+547 Philosopher 1 no longer eating -- calling putdown()
+547 Philosopher 1 thinking for 3 seconds
+549 Philosopher 4 no longer eating -- calling putdown()
+549 Philosopher 4 thinking for 2 seconds
+549 Philosopher 0 eating for 9 seconds
+549 Philosopher 3 eating for 5 seconds
+550 Total blocktime:  1446 :   302   276   309   294   265 
+550 Philosopher 1 no longer thinking -- calling pickup()
+551 Philosopher 4 no longer thinking -- calling pickup()
+551 Philosopher 2 no longer thinking -- calling pickup()
+554 Philosopher 3 no longer eating -- calling putdown()
+554 Philosopher 3 thinking for 1 second
+554 Philosopher 2 eating for 8 seconds
+555 Philosopher 3 no longer thinking -- calling pickup()
+558 Philosopher 0 no longer eating -- calling putdown()
+558 Philosopher 0 thinking for 3 seconds
+558 Philosopher 4 eating for 6 seconds
+560 Total blocktime:  1471 :   302   286   312   299   272 
+561 Philosopher 0 no longer thinking -- calling pickup()
+562 Philosopher 2 no longer eating -- calling putdown()
+562 Philosopher 2 thinking for 2 seconds
+562 Philosopher 1 eating for 3 seconds
+564 Philosopher 4 no longer eating -- calling putdown()
+564 Philosopher 4 thinking for 7 seconds
+564 Philosopher 3 eating for 9 seconds
+564 Philosopher 2 no longer thinking -- calling pickup()
+565 Philosopher 1 no longer eating -- calling putdown()
+565 Philosopher 1 thinking for 4 seconds
+565 Philosopher 0 eating for 6 seconds
+569 Philosopher 1 no longer thinking -- calling pickup()
+570 Total blocktime:  1488 :   306   289   318   303   272 
+571 Philosopher 4 no longer thinking -- calling pickup()
+571 Philosopher 0 no longer eating -- calling putdown()
+571 Philosopher 0 thinking for 2 seconds
+573 Philosopher 3 no longer eating -- calling putdown()
+573 Philosopher 3 thinking for 9 seconds
+573 Philosopher 4 eating for 1 second
+573 Philosopher 2 eating for 10 seconds
+573 Philosopher 0 no longer thinking -- calling pickup()
+574 Philosopher 4 no longer eating -- calling putdown()
+574 Philosopher 4 thinking for 2 seconds
+576 Philosopher 4 no longer thinking -- calling pickup()
+580 Total blocktime:  1514 :   313   299   321   303   278 
+582 Philosopher 3 no longer thinking -- calling pickup()
+583 Philosopher 2 no longer eating -- calling putdown()
+583 Philosopher 2 thinking for 8 seconds
+583 Philosopher 1 eating for 10 seconds
+590 Total blocktime:  1545 :   323   302   321   311   288 
+591 Philosopher 2 no longer thinking -- calling pickup()
+593 Philosopher 1 no longer eating -- calling putdown()
+593 Philosopher 1 thinking for 10 seconds
+593 Philosopher 0 eating for 7 seconds
+600 Total blocktime:  1577 :   326   302   330   321   298 
+600 Philosopher 0 no longer eating -- calling putdown()
+600 Philosopher 0 thinking for 9 seconds
+600 Philosopher 4 eating for 5 seconds
+603 Philosopher 1 no longer thinking -- calling pickup()
+605 Philosopher 4 no longer eating -- calling putdown()
+605 Philosopher 4 thinking for 1 second
+605 Philosopher 3 eating for 8 seconds
+606 Philosopher 4 no longer thinking -- calling pickup()
+609 Philosopher 0 no longer thinking -- calling pickup()
+610 Total blocktime:  1604 :   327   309   340   326   302 
+613 Philosopher 3 no longer eating -- calling putdown()
+613 Philosopher 3 thinking for 5 seconds
+613 Philosopher 2 eating for 10 seconds
+618 Philosopher 3 no longer thinking -- calling pickup()
+620 Total blocktime:  1639 :   337   319   343   328   312 
+623 Philosopher 2 no longer eating -- calling putdown()
+623 Philosopher 2 thinking for 5 seconds
+623 Philosopher 1 eating for 6 seconds
+628 Philosopher 2 no longer thinking -- calling pickup()
+629 Philosopher 1 no longer eating -- calling putdown()
+629 Philosopher 1 thinking for 2 seconds
+629 Philosopher 0 eating for 6 seconds
+630 Total blocktime:  1673 :   346   322   345   338   322 
+631 Philosopher 1 no longer thinking -- calling pickup()
+635 Philosopher 0 no longer eating -- calling putdown()
+635 Philosopher 0 thinking for 6 seconds
+635 Philosopher 4 eating for 8 seconds
+640 Total blocktime:  1707 :   346   331   355   348   327 
+641 Philosopher 0 no longer thinking -- calling pickup()
+643 Philosopher 4 no longer eating -- calling putdown()
+643 Philosopher 4 thinking for 9 seconds
+643 Philosopher 3 eating for 5 seconds
+648 Philosopher 3 no longer eating -- calling putdown()
+648 Philosopher 3 thinking for 1 second
+648 Philosopher 2 eating for 6 seconds
+649 Philosopher 3 no longer thinking -- calling pickup()
+650 Total blocktime:  1738 :   355   341   363   352   327 
+652 Philosopher 4 no longer thinking -- calling pickup()
+654 Philosopher 2 no longer eating -- calling putdown()
+654 Philosopher 2 thinking for 7 seconds
+654 Philosopher 1 eating for 5 seconds
+659 Philosopher 1 no longer eating -- calling putdown()
+659 Philosopher 1 thinking for 4 seconds
+659 Philosopher 0 eating for 7 seconds
+660 Total blocktime:  1769 :   364   345   363   362   335 
+661 Philosopher 2 no longer thinking -- calling pickup()
+663 Philosopher 1 no longer thinking -- calling pickup()
+666 Philosopher 0 no longer eating -- calling putdown()
+666 Philosopher 0 thinking for 8 seconds
+666 Philosopher 4 eating for 10 seconds
+670 Total blocktime:  1801 :   364   352   372   372   341 
+674 Philosopher 0 no longer thinking -- calling pickup()
+676 Philosopher 4 no longer eating -- calling putdown()
+676 Philosopher 4 thinking for 8 seconds
+676 Philosopher 3 eating for 6 seconds
+680 Total blocktime:  1833 :   370   362   382   378   341 
+682 Philosopher 3 no longer eating -- calling putdown()
+682 Philosopher 3 thinking for 2 seconds
+682 Philosopher 2 eating for 7 seconds
+684 Philosopher 4 no longer thinking -- calling pickup()
+684 Philosopher 3 no longer thinking -- calling pickup()
+689 Philosopher 2 no longer eating -- calling putdown()
+689 Philosopher 2 thinking for 9 seconds
+689 Philosopher 1 eating for 9 seconds
+690 Total blocktime:  1866 :   380   371   384   384   347 
+698 Philosopher 2 no longer thinking -- calling pickup()
+698 Philosopher 1 no longer eating -- calling putdown()
+699 Philosopher 1 thinking for 8 seconds
+699 Philosopher 0 eating for 8 seconds
+700 Total blocktime:  1897 :   389   371   386   394   357 
+707 Philosopher 1 no longer thinking -- calling pickup()
+707 Philosopher 0 no longer eating -- calling putdown()
+707 Philosopher 0 thinking for 7 seconds
+707 Philosopher 4 eating for 8 seconds
+710 Total blocktime:  1927 :   389   374   396   404   364 
+714 Philosopher 0 no longer thinking -- calling pickup()
+715 Philosopher 4 no longer eating -- calling putdown()
+715 Philosopher 4 thinking for 4 seconds
+715 Philosopher 3 eating for 9 seconds
+719 Philosopher 4 no longer thinking -- calling pickup()
+720 Total blocktime:  1959 :   395   384   406   409   365 
+724 Philosopher 3 no longer eating -- calling putdown()
+724 Philosopher 3 thinking for 5 seconds
+724 Philosopher 2 eating for 8 seconds
+729 Philosopher 3 no longer thinking -- calling pickup()
+730 Total blocktime:  1994 :   405   394   410   410   375 
+732 Philosopher 2 no longer eating -- calling putdown()
+732 Philosopher 2 thinking for 8 seconds
+732 Philosopher 1 eating for 2 seconds
+734 Philosopher 1 no longer eating -- calling putdown()
+734 Philosopher 1 thinking for 6 seconds
+734 Philosopher 0 eating for 1 second
+735 Philosopher 0 no longer eating -- calling putdown()
+735 Philosopher 0 thinking for 9 seconds
+735 Philosopher 4 eating for 1 second
+736 Philosopher 4 no longer eating -- calling putdown()
+736 Philosopher 4 thinking for 9 seconds
+736 Philosopher 3 eating for 9 seconds
+740 Philosopher 2 no longer thinking -- calling pickup()
+740 Philosopher 1 no longer thinking -- calling pickup()
+740 Total blocktime:  2011 :   409   396   410   416   380 
+744 Philosopher 0 no longer thinking -- calling pickup()
+745 Philosopher 4 no longer thinking -- calling pickup()
+745 Philosopher 3 no longer eating -- calling putdown()
+745 Philosopher 3 thinking for 6 seconds
+745 Philosopher 2 eating for 1 second
+746 Philosopher 2 no longer eating -- calling putdown()
+746 Philosopher 2 thinking for 5 seconds
+746 Philosopher 1 eating for 4 seconds
+750 Philosopher 1 no longer eating -- calling putdown()
+750 Philosopher 1 thinking for 5 seconds
+750 Philosopher 0 eating for 10 seconds
+750 Total blocktime:  2033 :   415   402   415   416   385 
+751 Philosopher 3 no longer thinking -- calling pickup()
+751 Philosopher 2 no longer thinking -- calling pickup()
+755 Philosopher 1 no longer thinking -- calling pickup()
+760 Philosopher 0 no longer eating -- calling putdown()
+760 Philosopher 0 thinking for 10 seconds
+760 Philosopher 4 eating for 5 seconds
+760 Total blocktime:  2066 :   415   407   424   425   395 
+765 Philosopher 4 no longer eating -- calling putdown()
+765 Philosopher 4 thinking for 9 seconds
+765 Philosopher 3 eating for 10 seconds
+770 Philosopher 0 no longer thinking -- calling pickup()
+770 Total blocktime:  2091 :   415   417   434   430   395 
+774 Philosopher 4 no longer thinking -- calling pickup()
+775 Philosopher 3 no longer eating -- calling putdown()
+775 Philosopher 3 thinking for 2 seconds
+775 Philosopher 2 eating for 2 seconds
+777 Philosopher 3 no longer thinking -- calling pickup()
+777 Philosopher 2 no longer eating -- calling putdown()
+777 Philosopher 2 thinking for 6 seconds
+777 Philosopher 1 eating for 1 second
+778 Philosopher 1 no longer eating -- calling putdown()
+778 Philosopher 1 thinking for 2 seconds
+778 Philosopher 0 eating for 6 seconds
+780 Philosopher 1 no longer thinking -- calling pickup()
+780 Total blocktime:  2120 :   423   424   439   433   401 
+783 Philosopher 2 no longer thinking -- calling pickup()
+784 Philosopher 0 no longer eating -- calling putdown()
+784 Philosopher 0 thinking for 10 seconds
+784 Philosopher 4 eating for 8 seconds
+790 Total blocktime:  2151 :   423   434   446   443   405 
+792 Philosopher 4 no longer eating -- calling putdown()
+792 Philosopher 4 thinking for 3 seconds
+792 Philosopher 3 eating for 4 seconds
+794 Philosopher 0 no longer thinking -- calling pickup()
+795 Philosopher 4 no longer thinking -- calling pickup()
+796 Philosopher 3 no longer eating -- calling putdown()
+796 Philosopher 3 thinking for 8 seconds
+796 Philosopher 2 eating for 10 seconds
+800 Total blocktime:  2180 :   429   444   452   445   410 
+804 Philosopher 3 no longer thinking -- calling pickup()
+806 Philosopher 2 no longer eating -- calling putdown()
+806 Philosopher 2 thinking for 3 seconds
+806 Philosopher 1 eating for 5 seconds
+809 Philosopher 2 no longer thinking -- calling pickup()
+810 Total blocktime:  2213 :   439   450   453   451   420 
+811 Philosopher 1 no longer eating -- calling putdown()
+811 Philosopher 1 thinking for 1 second
+811 Philosopher 0 eating for 8 seconds
+812 Philosopher 1 no longer thinking -- calling pickup()
+819 Philosopher 0 no longer eating -- calling putdown()
+819 Philosopher 0 thinking for 8 seconds
+819 Philosopher 4 eating for 1 second
+820 Philosopher 4 no longer eating -- calling putdown()
+820 Philosopher 4 thinking for 1 second
+820 Philosopher 3 eating for 6 seconds
+820 Total blocktime:  2251 :   440   458   463   461   429 
+821 Philosopher 4 no longer thinking -- calling pickup()
+826 Philosopher 3 no longer eating -- calling putdown()
+826 Philosopher 3 thinking for 10 seconds
+826 Philosopher 4 eating for 6 seconds
+826 Philosopher 2 eating for 8 seconds
+827 Philosopher 0 no longer thinking -- calling pickup()
+830 Total blocktime:  2275 :   443   468   469   461   434 
+832 Philosopher 4 no longer eating -- calling putdown()
+832 Philosopher 4 thinking for 6 seconds
+834 Philosopher 2 no longer eating -- calling putdown()
+834 Philosopher 2 thinking for 1 second
+834 Philosopher 1 eating for 4 seconds
+835 Philosopher 2 no longer thinking -- calling pickup()
+836 Philosopher 3 no longer thinking -- calling pickup()
+836 Philosopher 3 eating for 5 seconds
+838 Philosopher 4 no longer thinking -- calling pickup()
+838 Philosopher 1 no longer eating -- calling putdown()
+838 Philosopher 1 thinking for 10 seconds
+838 Philosopher 0 eating for 8 seconds
+840 Total blocktime:  2294 :   451   472   474   461   436 
+841 Philosopher 3 no longer eating -- calling putdown()
+841 Philosopher 3 thinking for 4 seconds
+841 Philosopher 2 eating for 1 second
+842 Philosopher 2 no longer eating -- calling putdown()
+842 Philosopher 2 thinking for 2 seconds
+844 Philosopher 2 no longer thinking -- calling pickup()
+844 Philosopher 2 eating for 5 seconds
+845 Philosopher 3 no longer thinking -- calling pickup()
+846 Philosopher 0 no longer eating -- calling putdown()
+846 Philosopher 0 thinking for 7 seconds
+846 Philosopher 4 eating for 4 seconds
+848 Philosopher 1 no longer thinking -- calling pickup()
+849 Philosopher 2 no longer eating -- calling putdown()
+849 Philosopher 2 thinking for 9 seconds
+849 Philosopher 1 eating for 2 seconds
+850 Philosopher 4 no longer eating -- calling putdown()
+850 Philosopher 4 thinking for 3 seconds
+850 Philosopher 3 eating for 6 seconds
+850 Total blocktime:  2307 :   451   473   475   466   442 
+851 Philosopher 1 no longer eating -- calling putdown()
+851 Philosopher 1 thinking for 6 seconds
+853 Philosopher 0 no longer thinking -- calling pickup()
+853 Philosopher 0 eating for 8 seconds
+853 Philosopher 4 no longer thinking -- calling pickup()
+856 Philosopher 3 no longer eating -- calling putdown()
+856 Philosopher 3 thinking for 4 seconds
+857 Philosopher 1 no longer thinking -- calling pickup()
+858 Philosopher 2 no longer thinking -- calling pickup()
+858 Philosopher 2 eating for 5 seconds
+860 Philosopher 3 no longer thinking -- calling pickup()
+860 Total blocktime:  2317 :   451   476   475   466   449 
+861 Philosopher 0 no longer eating -- calling putdown()
+861 Philosopher 0 thinking for 1 second
+861 Philosopher 4 eating for 10 seconds
+862 Philosopher 0 no longer thinking -- calling pickup()
+863 Philosopher 2 no longer eating -- calling putdown()
+863 Philosopher 2 thinking for 7 seconds
+863 Philosopher 1 eating for 10 seconds
+870 Philosopher 2 no longer thinking -- calling pickup()
+870 Total blocktime:  2339 :   459   479   475   476   450 
+871 Philosopher 4 no longer eating -- calling putdown()
+871 Philosopher 4 thinking for 9 seconds
+871 Philosopher 3 eating for 8 seconds
+873 Philosopher 1 no longer eating -- calling putdown()
+873 Philosopher 1 thinking for 10 seconds
+873 Philosopher 0 eating for 6 seconds
+879 Philosopher 0 no longer eating -- calling putdown()
+879 Philosopher 0 thinking for 7 seconds
+879 Philosopher 3 no longer eating -- calling putdown()
+879 Philosopher 3 thinking for 7 seconds
+879 Philosopher 2 eating for 3 seconds
+880 Philosopher 4 no longer thinking -- calling pickup()
+880 Philosopher 4 eating for 2 seconds
+880 Total blocktime:  2352 :   462   479   484   477   450 
+882 Philosopher 4 no longer eating -- calling putdown()
+882 Philosopher 4 thinking for 7 seconds
+882 Philosopher 2 no longer eating -- calling putdown()
+882 Philosopher 2 thinking for 7 seconds
+883 Philosopher 1 no longer thinking -- calling pickup()
+883 Philosopher 1 eating for 6 seconds
+886 Philosopher 0 no longer thinking -- calling pickup()
+886 Philosopher 3 no longer thinking -- calling pickup()
+886 Philosopher 3 eating for 9 seconds
+889 Philosopher 1 no longer eating -- calling putdown()
+889 Philosopher 1 thinking for 6 seconds
+889 Philosopher 0 eating for 1 second
+889 Philosopher 4 no longer thinking -- calling pickup()
+889 Philosopher 2 no longer thinking -- calling pickup()
+890 Philosopher 0 no longer eating -- calling putdown()
+890 Philosopher 0 thinking for 9 seconds
+890 Total blocktime:  2357 :   465   479   485   477   451 
+895 Philosopher 1 no longer thinking -- calling pickup()
+895 Philosopher 3 no longer eating -- calling putdown()
+895 Philosopher 3 thinking for 9 seconds
+895 Philosopher 4 eating for 8 seconds
+895 Philosopher 2 eating for 7 seconds
+899 Philosopher 0 no longer thinking -- calling pickup()
+900 Total blocktime:  2373 :   466   484   490   477   456 
+902 Philosopher 2 no longer eating -- calling putdown()
+902 Philosopher 2 thinking for 2 seconds
+902 Philosopher 1 eating for 6 seconds
+903 Philosopher 4 no longer eating -- calling putdown()
+903 Philosopher 4 thinking for 10 seconds
+904 Philosopher 3 no longer thinking -- calling pickup()
+904 Philosopher 3 eating for 7 seconds
+904 Philosopher 2 no longer thinking -- calling pickup()
+908 Philosopher 1 no longer eating -- calling putdown()
+908 Philosopher 1 thinking for 1 second
+908 Philosopher 0 eating for 6 seconds
+909 Philosopher 1 no longer thinking -- calling pickup()
+910 Total blocktime:  2390 :   474   487   496   477   456 
+911 Philosopher 3 no longer eating -- calling putdown()
+911 Philosopher 3 thinking for 4 seconds
+911 Philosopher 2 eating for 6 seconds
+913 Philosopher 4 no longer thinking -- calling pickup()
+914 Philosopher 0 no longer eating -- calling putdown()
+914 Philosopher 0 thinking for 10 seconds
+914 Philosopher 4 eating for 6 seconds
+915 Philosopher 3 no longer thinking -- calling pickup()
+917 Philosopher 2 no longer eating -- calling putdown()
+917 Philosopher 2 thinking for 8 seconds
+917 Philosopher 1 eating for 7 seconds
+920 Philosopher 4 no longer eating -- calling putdown()
+920 Philosopher 4 thinking for 6 seconds
+920 Philosopher 3 eating for 6 seconds
+920 Total blocktime:  2404 :   474   494   497   482   457 
+924 Philosopher 0 no longer thinking -- calling pickup()
+924 Philosopher 1 no longer eating -- calling putdown()
+924 Philosopher 1 thinking for 4 seconds
+924 Philosopher 0 eating for 5 seconds
+925 Philosopher 2 no longer thinking -- calling pickup()
+926 Philosopher 4 no longer thinking -- calling pickup()
+926 Philosopher 3 no longer eating -- calling putdown()
+926 Philosopher 3 thinking for 2 seconds
+926 Philosopher 2 eating for 2 seconds
+928 Philosopher 3 no longer thinking -- calling pickup()
+928 Philosopher 2 no longer eating -- calling putdown()
+928 Philosopher 2 thinking for 2 seconds
+928 Philosopher 1 no longer thinking -- calling pickup()
+929 Philosopher 0 no longer eating -- calling putdown()
+929 Philosopher 0 thinking for 6 seconds
+929 Philosopher 1 eating for 3 seconds
+929 Philosopher 4 eating for 10 seconds
+930 Philosopher 2 no longer thinking -- calling pickup()
+930 Total blocktime:  2411 :   474   495   498   484   460 
+932 Philosopher 1 no longer eating -- calling putdown()
+932 Philosopher 1 thinking for 4 seconds
+935 Philosopher 0 no longer thinking -- calling pickup()
+936 Philosopher 1 no longer thinking -- calling pickup()
+939 Philosopher 4 no longer eating -- calling putdown()
+939 Philosopher 4 thinking for 8 seconds
+939 Philosopher 3 eating for 8 seconds
+940 Total blocktime:  2439 :   479   499   508   493   460 
+947 Philosopher 4 no longer thinking -- calling pickup()
+947 Philosopher 3 no longer eating -- calling putdown()
+947 Philosopher 3 thinking for 2 seconds
+947 Philosopher 2 eating for 1 second
+948 Philosopher 2 no longer eating -- calling putdown()
+948 Philosopher 2 thinking for 9 seconds
+948 Philosopher 1 eating for 10 seconds
+949 Philosopher 3 no longer thinking -- calling pickup()
+950 Total blocktime:  2468 :   489   507   515   494   463 
+957 Philosopher 2 no longer thinking -- calling pickup()
+958 Philosopher 1 no longer eating -- calling putdown()
+958 Philosopher 1 thinking for 8 seconds
+958 Philosopher 0 eating for 5 seconds
+960 Total blocktime:  2499 :   497   507   518   504   473 
+963 Philosopher 0 no longer eating -- calling putdown()
+963 Philosopher 0 thinking for 4 seconds
+963 Philosopher 4 eating for 3 seconds
+966 Philosopher 1 no longer thinking -- calling pickup()
+966 Philosopher 4 no longer eating -- calling putdown()
+966 Philosopher 4 thinking for 5 seconds
+966 Philosopher 3 eating for 10 seconds
+967 Philosopher 0 no longer thinking -- calling pickup()
+970 Total blocktime:  2525 :   500   511   528   510   476 
+971 Philosopher 4 no longer thinking -- calling pickup()
+976 Philosopher 3 no longer eating -- calling putdown()
+976 Philosopher 3 thinking for 5 seconds
+976 Philosopher 2 eating for 2 seconds
+978 Philosopher 2 no longer eating -- calling putdown()
+978 Philosopher 2 thinking for 5 seconds
+978 Philosopher 1 eating for 3 seconds
+980 Total blocktime:  2558 :   510   519   534   510   485 
+981 Philosopher 3 no longer thinking -- calling pickup()
+981 Philosopher 1 no longer eating -- calling putdown()
+981 Philosopher 1 thinking for 1 second
+981 Philosopher 0 eating for 1 second
+982 Philosopher 1 no longer thinking -- calling pickup()
+982 Philosopher 0 no longer eating -- calling putdown()
+982 Philosopher 0 thinking for 10 seconds
+982 Philosopher 1 eating for 9 seconds
+982 Philosopher 4 eating for 8 seconds
+983 Philosopher 2 no longer thinking -- calling pickup()
+990 Philosopher 4 no longer eating -- calling putdown()
+990 Philosopher 4 thinking for 7 seconds
+990 Philosopher 3 eating for 4 seconds
+990 Total blocktime:  2577 :   511   519   541   519   487 
+991 Philosopher 1 no longer eating -- calling putdown()
+991 Philosopher 1 thinking for 2 seconds
+992 Philosopher 0 no longer thinking -- calling pickup()
+992 Philosopher 0 eating for 8 seconds
+993 Philosopher 1 no longer thinking -- calling pickup()
+994 Philosopher 3 no longer eating -- calling putdown()
+994 Philosopher 3 thinking for 5 seconds
+994 Philosopher 2 eating for 5 seconds
+997 Philosopher 4 no longer thinking -- calling pickup()
+999 Philosopher 3 no longer thinking -- calling pickup()
+999 Philosopher 2 no longer eating -- calling putdown()
+999 Philosopher 2 thinking for 6 seconds
+1000 Philosopher 0 no longer eating -- calling putdown()
+1000 Philosopher 0 thinking for 9 seconds
+1000 Philosopher 1 eating for 5 seconds
+1000 Philosopher 4 eating for 9 seconds
+1000 Total blocktime:  2592 :   511   526   545   520   490 
+1005 Philosopher 1 no longer eating -- calling putdown()
+1005 Philosopher 1 thinking for 9 seconds
+1005 Philosopher 2 no longer thinking -- calling pickup()
+1009 Philosopher 0 no longer thinking -- calling pickup()
+1009 Philosopher 4 no longer eating -- calling putdown()
+1009 Philosopher 4 thinking for 4 seconds
+1009 Philosopher 0 eating for 10 seconds
+1009 Philosopher 3 eating for 9 seconds
+1010 Total blocktime:  2606 :   511   526   550   529   490 
+1013 Philosopher 4 no longer thinking -- calling pickup()
+1014 Philosopher 1 no longer thinking -- calling pickup()
+1018 Philosopher 3 no longer eating -- calling putdown()
+1018 Philosopher 3 thinking for 2 seconds
+1018 Philosopher 2 eating for 10 seconds
+1019 Philosopher 0 no longer eating -- calling putdown()
+1019 Philosopher 0 thinking for 6 seconds
+1019 Philosopher 4 eating for 9 seconds
+1020 Philosopher 3 no longer thinking -- calling pickup()
+1020 Total blocktime:  2626 :   511   532   558   529   496 
+1025 Philosopher 0 no longer thinking -- calling pickup()
+1028 Philosopher 4 no longer eating -- calling putdown()
+1028 Philosopher 4 thinking for 5 seconds
+1028 Philosopher 2 no longer eating -- calling putdown()
+1028 Philosopher 2 thinking for 8 seconds
+1028 Philosopher 3 eating for 5 seconds
+1028 Philosopher 1 eating for 4 seconds
+1030 Total blocktime:  2647 :   516   540   558   537   496 
+1032 Philosopher 1 no longer eating -- calling putdown()
+1032 Philosopher 1 thinking for 4 seconds
+1032 Philosopher 0 eating for 6 seconds
+1033 Philosopher 4 no longer thinking -- calling pickup()
+1033 Philosopher 3 no longer eating -- calling putdown()
+1033 Philosopher 3 thinking for 8 seconds
+1036 Philosopher 2 no longer thinking -- calling pickup()
+1036 Philosopher 2 eating for 6 seconds
+1036 Philosopher 1 no longer thinking -- calling pickup()
+1038 Philosopher 0 no longer eating -- calling putdown()
+1038 Philosopher 0 thinking for 8 seconds
+1038 Philosopher 4 eating for 10 seconds
+1040 Total blocktime:  2658 :   518   544   558   537   501 
+1041 Philosopher 3 no longer thinking -- calling pickup()
+1042 Philosopher 2 no longer eating -- calling putdown()
+1042 Philosopher 2 thinking for 5 seconds
+1042 Philosopher 1 eating for 9 seconds
+1046 Philosopher 0 no longer thinking -- calling pickup()
+1047 Philosopher 2 no longer thinking -- calling pickup()
+1048 Philosopher 4 no longer eating -- calling putdown()
+1048 Philosopher 4 thinking for 7 seconds
+1048 Philosopher 3 eating for 2 seconds
+1050 Philosopher 3 no longer eating -- calling putdown()
+1050 Philosopher 3 thinking for 2 seconds
+1050 Total blocktime:  2674 :   522   546   561   544   501 
+1051 Philosopher 1 no longer eating -- calling putdown()
+1051 Philosopher 1 thinking for 1 second
+1051 Philosopher 2 eating for 1 second
+1051 Philosopher 0 eating for 9 seconds
+1052 Philosopher 1 no longer thinking -- calling pickup()
+1052 Philosopher 2 no longer eating -- calling putdown()
+1052 Philosopher 2 thinking for 7 seconds
+1052 Philosopher 3 no longer thinking -- calling pickup()
+1052 Philosopher 3 eating for 6 seconds
+1055 Philosopher 4 no longer thinking -- calling pickup()
+1058 Philosopher 3 no longer eating -- calling putdown()
+1058 Philosopher 3 thinking for 7 seconds
+1059 Philosopher 2 no longer thinking -- calling pickup()
+1059 Philosopher 2 eating for 3 seconds
+1060 Philosopher 0 no longer eating -- calling putdown()
+1060 Philosopher 0 thinking for 7 seconds
+1060 Philosopher 4 eating for 5 seconds
+1060 Total blocktime:  2689 :   523   554   562   544   506 
+1062 Philosopher 2 no longer eating -- calling putdown()
+1062 Philosopher 2 thinking for 7 seconds
+1062 Philosopher 1 eating for 6 seconds
+1065 Philosopher 4 no longer eating -- calling putdown()
+1065 Philosopher 4 thinking for 3 seconds
+1065 Philosopher 3 no longer thinking -- calling pickup()
+1065 Philosopher 3 eating for 10 seconds
+1067 Philosopher 0 no longer thinking -- calling pickup()
+1068 Philosopher 4 no longer thinking -- calling pickup()
+1068 Philosopher 1 no longer eating -- calling putdown()
+1068 Philosopher 1 thinking for 7 seconds
+1068 Philosopher 0 eating for 10 seconds
+1069 Philosopher 2 no longer thinking -- calling pickup()
+1070 Total blocktime:  2695 :   524   556   563   544   508 
+1075 Philosopher 1 no longer thinking -- calling pickup()
+1075 Philosopher 3 no longer eating -- calling putdown()
+1075 Philosopher 3 thinking for 8 seconds
+1075 Philosopher 2 eating for 1 second
+1076 Philosopher 2 no longer eating -- calling putdown()
+1076 Philosopher 2 thinking for 9 seconds
+1078 Philosopher 0 no longer eating -- calling putdown()
+1078 Philosopher 0 thinking for 4 seconds
+1078 Philosopher 1 eating for 6 seconds
+1078 Philosopher 4 eating for 3 seconds
+1080 Total blocktime:  2711 :   524   559   568   544   516 
+1081 Philosopher 4 no longer eating -- calling putdown()
+1081 Philosopher 4 thinking for 9 seconds
+1082 Philosopher 0 no longer thinking -- calling pickup()
+1083 Philosopher 3 no longer thinking -- calling pickup()
+1083 Philosopher 3 eating for 6 seconds
+1084 Philosopher 1 no longer eating -- calling putdown()
+1084 Philosopher 1 thinking for 8 seconds
+1084 Philosopher 0 eating for 9 seconds
+1085 Philosopher 2 no longer thinking -- calling pickup()
+1089 Philosopher 3 no longer eating -- calling putdown()
+1089 Philosopher 3 thinking for 7 seconds
+1089 Philosopher 2 eating for 3 seconds
+1090 Philosopher 4 no longer thinking -- calling pickup()
+1090 Total blocktime:  2717 :   526   559   572   544   516 
+1092 Philosopher 1 no longer thinking -- calling pickup()
+1092 Philosopher 2 no longer eating -- calling putdown()
+1092 Philosopher 2 thinking for 7 seconds
+1093 Philosopher 0 no longer eating -- calling putdown()
+1093 Philosopher 0 thinking for 6 seconds
+1093 Philosopher 1 eating for 6 seconds
+1093 Philosopher 4 eating for 8 seconds
+1096 Philosopher 3 no longer thinking -- calling pickup()
+1099 Philosopher 0 no longer thinking -- calling pickup()
+1099 Philosopher 1 no longer eating -- calling putdown()
+1099 Philosopher 1 thinking for 8 seconds
+1099 Philosopher 2 no longer thinking -- calling pickup()
+1100 Total blocktime:  2727 :   527   560   573   548   519 
+1101 Philosopher 4 no longer eating -- calling putdown()
+1101 Philosopher 4 thinking for 8 seconds
+1101 Philosopher 0 eating for 8 seconds
+1101 Philosopher 3 eating for 4 seconds
+1105 Philosopher 3 no longer eating -- calling putdown()
+1105 Philosopher 3 thinking for 6 seconds
+1105 Philosopher 2 eating for 5 seconds
+1107 Philosopher 1 no longer thinking -- calling pickup()
+1109 Philosopher 4 no longer thinking -- calling pickup()
+1109 Philosopher 0 no longer eating -- calling putdown()
+1109 Philosopher 0 thinking for 7 seconds
+1109 Philosopher 4 eating for 2 seconds
+1110 Philosopher 2 no longer eating -- calling putdown()
+1110 Philosopher 2 thinking for 1 second
+1110 Philosopher 1 eating for 5 seconds
+1110 Total blocktime:  2737 :   528   563   578   549   519 
+1111 Philosopher 3 no longer thinking -- calling pickup()
+1111 Philosopher 4 no longer eating -- calling putdown()
+1111 Philosopher 4 thinking for 9 seconds
+1111 Philosopher 3 eating for 6 seconds
+1111 Philosopher 2 no longer thinking -- calling pickup()
+1115 Philosopher 1 no longer eating -- calling putdown()
+1115 Philosopher 1 thinking for 6 seconds
+1116 Philosopher 0 no longer thinking -- calling pickup()
+1116 Philosopher 0 eating for 8 seconds
+1117 Philosopher 3 no longer eating -- calling putdown()
+1117 Philosopher 3 thinking for 5 seconds
+1117 Philosopher 2 eating for 6 seconds
+1120 Philosopher 4 no longer thinking -- calling pickup()
+1120 Total blocktime:  2743 :   528   563   584   549   519 
+1121 Philosopher 1 no longer thinking -- calling pickup()
+1122 Philosopher 3 no longer thinking -- calling pickup()
+1123 Philosopher 2 no longer eating -- calling putdown()
+1123 Philosopher 2 thinking for 10 seconds
+1124 Philosopher 0 no longer eating -- calling putdown()
+1124 Philosopher 0 thinking for 4 seconds
+1124 Philosopher 1 eating for 9 seconds
+1124 Philosopher 4 eating for 6 seconds
+1128 Philosopher 0 no longer thinking -- calling pickup()
+1130 Philosopher 4 no longer eating -- calling putdown()
+1130 Philosopher 4 thinking for 6 seconds
+1130 Philosopher 3 eating for 10 seconds
+1130 Total blocktime:  2760 :   530   566   584   557   523 
+1133 Philosopher 1 no longer eating -- calling putdown()
+1133 Philosopher 1 thinking for 3 seconds
+1133 Philosopher 0 eating for 3 seconds
+1133 Philosopher 2 no longer thinking -- calling pickup()
+1136 Philosopher 4 no longer thinking -- calling pickup()
+1136 Philosopher 1 no longer thinking -- calling pickup()
+1136 Philosopher 0 no longer eating -- calling putdown()
+1136 Philosopher 0 thinking for 8 seconds
+1140 Philosopher 3 no longer eating -- calling putdown()
+1140 Philosopher 3 thinking for 9 seconds
+1140 Philosopher 4 eating for 7 seconds
+1140 Philosopher 2 eating for 4 seconds
+1140 Total blocktime:  2778 :   533   570   591   557   527 
+1144 Philosopher 2 no longer eating -- calling putdown()
+1144 Philosopher 2 thinking for 4 seconds
+1144 Philosopher 1 eating for 4 seconds
+1144 Philosopher 0 no longer thinking -- calling pickup()
+1147 Philosopher 4 no longer eating -- calling putdown()
+1147 Philosopher 4 thinking for 3 seconds
+1148 Philosopher 2 no longer thinking -- calling pickup()
+1148 Philosopher 1 no longer eating -- calling putdown()
+1148 Philosopher 1 thinking for 1 second
+1148 Philosopher 2 eating for 4 seconds
+1148 Philosopher 0 eating for 1 second
+1149 Philosopher 3 no longer thinking -- calling pickup()
+1149 Philosopher 1 no longer thinking -- calling pickup()
+1149 Philosopher 0 no longer eating -- calling putdown()
+1149 Philosopher 0 thinking for 7 seconds
+1150 Philosopher 4 no longer thinking -- calling pickup()
+1150 Philosopher 4 eating for 1 second
+1150 Total blocktime:  2788 :   537   575   591   558   527 
+1151 Philosopher 4 no longer eating -- calling putdown()
+1151 Philosopher 4 thinking for 7 seconds
+1152 Philosopher 2 no longer eating -- calling putdown()
+1152 Philosopher 2 thinking for 5 seconds
+1152 Philosopher 3 eating for 4 seconds
+1152 Philosopher 1 eating for 9 seconds
+1156 Philosopher 0 no longer thinking -- calling pickup()
+1156 Philosopher 3 no longer eating -- calling putdown()
+1156 Philosopher 3 thinking for 9 seconds
+1157 Philosopher 2 no longer thinking -- calling pickup()
+1158 Philosopher 4 no longer thinking -- calling pickup()
+1160 Total blocktime:  2801 :   541   577   594   560   529 
+1161 Philosopher 1 no longer eating -- calling putdown()
+1161 Philosopher 1 thinking for 2 seconds
+1161 Philosopher 2 eating for 4 seconds
+1161 Philosopher 0 eating for 6 seconds
+1163 Philosopher 1 no longer thinking -- calling pickup()
+1165 Philosopher 3 no longer thinking -- calling pickup()
+1165 Philosopher 2 no longer eating -- calling putdown()
+1165 Philosopher 2 thinking for 1 second
+1166 Philosopher 2 no longer thinking -- calling pickup()
+1167 Philosopher 0 no longer eating -- calling putdown()
+1167 Philosopher 0 thinking for 9 seconds
+1167 Philosopher 4 eating for 1 second
+1168 Philosopher 4 no longer eating -- calling putdown()
+1168 Philosopher 4 thinking for 1 second
+1168 Philosopher 3 eating for 4 seconds
+1169 Philosopher 4 no longer thinking -- calling pickup()
+1170 Total blocktime:  2825 :   542   584   599   563   537 
+1172 Philosopher 3 no longer eating -- calling putdown()
+1172 Philosopher 3 thinking for 2 seconds
+1172 Philosopher 4 eating for 8 seconds
+1172 Philosopher 2 eating for 1 second
+1173 Philosopher 2 no longer eating -- calling putdown()
+1173 Philosopher 2 thinking for 1 second
+1173 Philosopher 1 eating for 2 seconds
+1174 Philosopher 3 no longer thinking -- calling pickup()
+1174 Philosopher 2 no longer thinking -- calling pickup()
+1175 Philosopher 1 no longer eating -- calling putdown()
+1175 Philosopher 1 thinking for 3 seconds
+1176 Philosopher 0 no longer thinking -- calling pickup()
+1178 Philosopher 1 no longer thinking -- calling pickup()
+1180 Philosopher 4 no longer eating -- calling putdown()
+1180 Philosopher 4 thinking for 10 seconds
+1180 Philosopher 3 eating for 10 seconds
+1180 Total blocktime:  2850 :   546   589   607   569   539 
+1190 Philosopher 4 no longer thinking -- calling pickup()
+1190 Philosopher 3 no longer eating -- calling putdown()
+1190 Philosopher 3 thinking for 2 seconds
+1190 Philosopher 2 eating for 3 seconds
+1190 Total blocktime:  2880 :   556   599   617   569   539 
+1192 Philosopher 3 no longer thinking -- calling pickup()
+1193 Philosopher 2 no longer eating -- calling putdown()
+1193 Philosopher 2 thinking for 6 seconds
+1193 Philosopher 1 eating for 7 seconds
+1199 Philosopher 2 no longer thinking -- calling pickup()
+1200 Philosopher 1 no longer eating -- calling putdown()
+1200 Philosopher 1 thinking for 5 seconds
+1200 Philosopher 0 eating for 6 seconds
+1200 Total blocktime:  2912 :   566   602   618   577   549 
+1205 Philosopher 1 no longer thinking -- calling pickup()
+1206 Philosopher 0 no longer eating -- calling putdown()
+1206 Philosopher 0 thinking for 10 seconds
+1206 Philosopher 4 eating for 7 seconds
+1210 Total blocktime:  2943 :   566   607   628   587   555 
+1213 Philosopher 4 no longer eating -- calling putdown()
+1213 Philosopher 4 thinking for 2 seconds
+1213 Philosopher 3 eating for 10 seconds
+1215 Philosopher 4 no longer thinking -- calling pickup()
+1216 Philosopher 0 no longer thinking -- calling pickup()
+1220 Total blocktime:  2975 :   570   617   638   590   560 
+1223 Philosopher 3 no longer eating -- calling putdown()
+1223 Philosopher 3 thinking for 5 seconds
+1223 Philosopher 2 eating for 8 seconds
+1228 Philosopher 3 no longer thinking -- calling pickup()
+1230 Total blocktime:  3010 :   580   627   641   592   570 
+1231 Philosopher 2 no longer eating -- calling putdown()
+1231 Philosopher 2 thinking for 3 seconds
+1231 Philosopher 1 eating for 4 seconds
+1234 Philosopher 2 no longer thinking -- calling pickup()
+1235 Philosopher 1 no longer eating -- calling putdown()
+1235 Philosopher 1 thinking for 6 seconds
+1235 Philosopher 0 eating for 7 seconds
+1240 Total blocktime:  3042 :   585   628   647   602   580 
+1241 Philosopher 1 no longer thinking -- calling pickup()
+1242 Philosopher 0 no longer eating -- calling putdown()
+1242 Philosopher 0 thinking for 7 seconds
+1242 Philosopher 4 eating for 4 seconds
+1246 Philosopher 4 no longer eating -- calling putdown()
+1246 Philosopher 4 thinking for 9 seconds
+1246 Philosopher 3 eating for 7 seconds
+1249 Philosopher 0 no longer thinking -- calling pickup()
+1250 Total blocktime:  3070 :   586   637   657   608   582 
+1253 Philosopher 3 no longer eating -- calling putdown()
+1253 Philosopher 3 thinking for 6 seconds
+1253 Philosopher 2 eating for 9 seconds
+1255 Philosopher 4 no longer thinking -- calling pickup()
+1259 Philosopher 3 no longer thinking -- calling pickup()
+1260 Total blocktime:  3099 :   596   647   660   609   587 
+1262 Philosopher 2 no longer eating -- calling putdown()
+1262 Philosopher 2 thinking for 2 seconds
+1262 Philosopher 1 eating for 7 seconds
+1264 Philosopher 2 no longer thinking -- calling pickup()
+1269 Philosopher 1 no longer eating -- calling putdown()
+1269 Philosopher 1 thinking for 8 seconds
+1269 Philosopher 0 eating for 2 seconds
+1270 Total blocktime:  3136 :   605   649   666   619   597 
+1271 Philosopher 0 no longer eating -- calling putdown()
+1271 Philosopher 0 thinking for 9 seconds
+1271 Philosopher 4 eating for 9 seconds
+1277 Philosopher 1 no longer thinking -- calling pickup()
+1280 Philosopher 0 no longer thinking -- calling pickup()
+1280 Philosopher 4 no longer eating -- calling putdown()
+1280 Philosopher 4 thinking for 7 seconds
+1280 Philosopher 3 eating for 8 seconds
+1280 Total blocktime:  3160 :   605   652   676   629   598 
+1287 Philosopher 4 no longer thinking -- calling pickup()
+1288 Philosopher 3 no longer eating -- calling putdown()
+1288 Philosopher 3 thinking for 1 second
+1288 Philosopher 2 eating for 10 seconds
+1289 Philosopher 3 no longer thinking -- calling pickup()
+1290 Total blocktime:  3192 :   615   662   684   630   601 
+1298 Philosopher 2 no longer eating -- calling putdown()
+1298 Philosopher 2 thinking for 10 seconds
+1298 Philosopher 1 eating for 6 seconds
+1300 Total blocktime:  3230 :   625   670   684   640   611 
+1304 Philosopher 1 no longer eating -- calling putdown()
+1304 Philosopher 1 thinking for 6 seconds
+1304 Philosopher 0 eating for 7 seconds
+1308 Philosopher 2 no longer thinking -- calling pickup()
+1310 Philosopher 1 no longer thinking -- calling pickup()
+1310 Total blocktime:  3256 :   629   670   686   650   621 
+1311 Philosopher 0 no longer eating -- calling putdown()
+1311 Philosopher 0 thinking for 3 seconds
+1311 Philosopher 4 eating for 8 seconds
+1314 Philosopher 0 no longer thinking -- calling pickup()
+1319 Philosopher 4 no longer eating -- calling putdown()
+1319 Philosopher 4 thinking for 5 seconds
+1319 Philosopher 3 eating for 7 seconds
+1320 Total blocktime:  3292 :   635   680   696   659   622 
+1324 Philosopher 4 no longer thinking -- calling pickup()
+1326 Philosopher 3 no longer eating -- calling putdown()
+1326 Philosopher 3 thinking for 9 seconds
+1326 Philosopher 2 eating for 10 seconds
+1330 Total blocktime:  3324 :   645   690   702   659   628 
+1335 Philosopher 3 no longer thinking -- calling pickup()
+1336 Philosopher 2 no longer eating -- calling putdown()
+1336 Philosopher 2 thinking for 4 seconds
+1336 Philosopher 1 eating for 2 seconds
+1338 Philosopher 1 no longer eating -- calling putdown()
+1338 Philosopher 1 thinking for 5 seconds
+1338 Philosopher 0 eating for 2 seconds
+1340 Philosopher 2 no longer thinking -- calling pickup()
+1340 Philosopher 0 no longer eating -- calling putdown()
+1340 Philosopher 0 thinking for 10 seconds
+1340 Philosopher 4 eating for 3 seconds
+1340 Total blocktime:  3353 :   653   696   702   664   638 
+1343 Philosopher 1 no longer thinking -- calling pickup()
+1343 Philosopher 4 no longer eating -- calling putdown()
+1343 Philosopher 4 thinking for 5 seconds
+1343 Philosopher 3 eating for 8 seconds
+1348 Philosopher 4 no longer thinking -- calling pickup()
+1350 Philosopher 0 no longer thinking -- calling pickup()
+1350 Total blocktime:  3375 :   653   703   712   667   640 
+1351 Philosopher 3 no longer eating -- calling putdown()
+1351 Philosopher 3 thinking for 2 seconds
+1351 Philosopher 2 eating for 10 seconds
+1353 Philosopher 3 no longer thinking -- calling pickup()
+1360 Total blocktime:  3413 :   663   713   713   674   650 
+1361 Philosopher 2 no longer eating -- calling putdown()
+1361 Philosopher 2 thinking for 9 seconds
+1361 Philosopher 1 eating for 3 seconds
+1364 Philosopher 1 no longer eating -- calling putdown()
+1364 Philosopher 1 thinking for 9 seconds
+1364 Philosopher 0 eating for 8 seconds
+1370 Philosopher 2 no longer thinking -- calling pickup()
+1370 Total blocktime:  3438 :   667   714   713   684   660 
+1372 Philosopher 0 no longer eating -- calling putdown()
+1372 Philosopher 0 thinking for 7 seconds
+1372 Philosopher 4 eating for 7 seconds
+1373 Philosopher 1 no longer thinking -- calling pickup()
+1379 Philosopher 0 no longer thinking -- calling pickup()
+1379 Philosopher 4 no longer eating -- calling putdown()
+1379 Philosopher 4 thinking for 7 seconds
+1379 Philosopher 3 eating for 3 seconds
+1380 Total blocktime:  3467 :   668   721   723   693   662 
+1382 Philosopher 3 no longer eating -- calling putdown()
+1382 Philosopher 3 thinking for 5 seconds
+1382 Philosopher 2 eating for 9 seconds
+1386 Philosopher 4 no longer thinking -- calling pickup()
+1387 Philosopher 3 no longer thinking -- calling pickup()
+1390 Total blocktime:  3496 :   678   731   725   696   666 
+1391 Philosopher 2 no longer eating -- calling putdown()
+1391 Philosopher 2 thinking for 4 seconds
+1391 Philosopher 1 eating for 6 seconds
+1395 Philosopher 2 no longer thinking -- calling pickup()
+1397 Philosopher 1 no longer eating -- calling putdown()
+1397 Philosopher 1 thinking for 4 seconds
+1397 Philosopher 0 eating for 9 seconds
+1400 Total blocktime:  3529 :   685   732   730   706   676 
+1401 Philosopher 1 no longer thinking -- calling pickup()
+1406 Philosopher 0 no longer eating -- calling putdown()
+1406 Philosopher 0 thinking for 2 seconds
+1406 Philosopher 4 eating for 8 seconds
+1408 Philosopher 0 no longer thinking -- calling pickup()
+1410 Total blocktime:  3566 :   687   741   740   716   682 
+1414 Philosopher 4 no longer eating -- calling putdown()
+1414 Philosopher 4 thinking for 8 seconds
+1414 Philosopher 3 eating for 9 seconds
+1420 Total blocktime:  3600 :   697   751   750   720   682 
+1422 Philosopher 4 no longer thinking -- calling pickup()
+1423 Philosopher 3 no longer eating -- calling putdown()
+1423 Philosopher 3 thinking for 4 seconds
+1423 Philosopher 2 eating for 7 seconds
+1427 Philosopher 3 no longer thinking -- calling pickup()
+1430 Philosopher 2 no longer eating -- calling putdown()
+1430 Philosopher 2 thinking for 10 seconds
+1430 Philosopher 1 eating for 8 seconds
+1430 Total blocktime:  3634 :   707   761   753   723   690 
+1438 Philosopher 1 no longer eating -- calling putdown()
+1438 Philosopher 1 thinking for 8 seconds
+1438 Philosopher 0 eating for 4 seconds
+1440 Philosopher 2 no longer thinking -- calling pickup()
+1440 Total blocktime:  3662 :   715   761   753   733   700 
+1442 Philosopher 0 no longer eating -- calling putdown()
+1442 Philosopher 0 thinking for 9 seconds
+1442 Philosopher 4 eating for 9 seconds
+1446 Philosopher 1 no longer thinking -- calling pickup()
+1450 Total blocktime:  3688 :   715   765   763   743   702 
+1451 Philosopher 0 no longer thinking -- calling pickup()
+1451 Philosopher 4 no longer eating -- calling putdown()
+1451 Philosopher 4 thinking for 6 seconds
+1451 Philosopher 3 eating for 5 seconds
+1456 Philosopher 3 no longer eating -- calling putdown()
+1456 Philosopher 3 thinking for 6 seconds
+1456 Philosopher 2 eating for 7 seconds
+1457 Philosopher 4 no longer thinking -- calling pickup()
+1460 Total blocktime:  3717 :   724   775   769   744   705 
+1462 Philosopher 3 no longer thinking -- calling pickup()
+1463 Philosopher 2 no longer eating -- calling putdown()
+1463 Philosopher 2 thinking for 4 seconds
+1463 Philosopher 1 eating for 6 seconds
+1467 Philosopher 2 no longer thinking -- calling pickup()
+1469 Philosopher 1 no longer eating -- calling putdown()
+1469 Philosopher 1 thinking for 2 seconds
+1469 Philosopher 0 eating for 2 seconds
+1470 Total blocktime:  3750 :   733   778   772   752   715 
+1471 Philosopher 1 no longer thinking -- calling pickup()
+1471 Philosopher 0 no longer eating -- calling putdown()
+1471 Philosopher 0 thinking for 4 seconds
+1471 Philosopher 4 eating for 8 seconds
+1475 Philosopher 0 no longer thinking -- calling pickup()
+1479 Philosopher 4 no longer eating -- calling putdown()
+1479 Philosopher 4 thinking for 1 second
+1479 Philosopher 3 eating for 2 seconds
+1480 Philosopher 4 no longer thinking -- calling pickup()
+1480 Total blocktime:  3784 :   738   787   782   761   716 
+1481 Philosopher 3 no longer eating -- calling putdown()
+1481 Philosopher 3 thinking for 2 seconds
+1481 Philosopher 2 eating for 5 seconds
+1483 Philosopher 3 no longer thinking -- calling pickup()
+1486 Philosopher 2 no longer eating -- calling putdown()
+1486 Philosopher 2 thinking for 10 seconds
+1486 Philosopher 1 eating for 5 seconds
+1490 Total blocktime:  3818 :   748   793   783   768   726 
+1491 Philosopher 1 no longer eating -- calling putdown()
+1491 Philosopher 1 thinking for 10 seconds
+1491 Philosopher 0 eating for 5 seconds
+1496 Philosopher 2 no longer thinking -- calling pickup()
+1496 Philosopher 0 no longer eating -- calling putdown()
+1496 Philosopher 0 thinking for 5 seconds
+1496 Philosopher 4 eating for 4 seconds
+1500 Philosopher 4 no longer eating -- calling putdown()
+1500 Philosopher 4 thinking for 2 seconds
+1500 Philosopher 3 eating for 3 seconds
+1500 Total blocktime:  3839 :   749   793   787   778   732 
+1501 Philosopher 1 no longer thinking -- calling pickup()
+1501 Philosopher 0 no longer thinking -- calling pickup()
+1502 Philosopher 4 no longer thinking -- calling pickup()
+1503 Philosopher 3 no longer eating -- calling putdown()
+1503 Philosopher 3 thinking for 2 seconds
+1503 Philosopher 2 eating for 6 seconds
+1505 Philosopher 3 no longer thinking -- calling pickup()
+1509 Philosopher 2 no longer eating -- calling putdown()
+1509 Philosopher 2 thinking for 9 seconds
+1509 Philosopher 1 eating for 1 second
+1510 Philosopher 1 no longer eating -- calling putdown()
+1510 Philosopher 1 thinking for 5 seconds
+1510 Philosopher 0 eating for 8 seconds
+1510 Total blocktime:  3872 :   758   801   790   783   740 
+1515 Philosopher 1 no longer thinking -- calling pickup()
+1518 Philosopher 2 no longer thinking -- calling pickup()
+1518 Philosopher 0 no longer eating -- calling putdown()
+1518 Philosopher 0 thinking for 4 seconds
+1518 Philosopher 4 eating for 5 seconds
+1520 Total blocktime:  3897 :   758   806   792   793   748 
+1522 Philosopher 0 no longer thinking -- calling pickup()
+1523 Philosopher 4 no longer eating -- calling putdown()
+1523 Philosopher 4 thinking for 8 seconds
+1523 Philosopher 3 eating for 1 second
+1524 Philosopher 3 no longer eating -- calling putdown()
+1524 Philosopher 3 thinking for 9 seconds
+1524 Philosopher 2 eating for 5 seconds
+1529 Philosopher 2 no longer eating -- calling putdown()
+1529 Philosopher 2 thinking for 10 seconds
+1529 Philosopher 1 eating for 4 seconds
+1530 Total blocktime:  3921 :   766   815   796   796   748 
+1531 Philosopher 4 no longer thinking -- calling pickup()
+1533 Philosopher 3 no longer thinking -- calling pickup()
+1533 Philosopher 1 no longer eating -- calling putdown()
+1533 Philosopher 1 thinking for 1 second
+1533 Philosopher 0 eating for 1 second
+1534 Philosopher 1 no longer thinking -- calling pickup()
+1534 Philosopher 0 no longer eating -- calling putdown()
+1534 Philosopher 0 thinking for 8 seconds
+1534 Philosopher 1 eating for 4 seconds
+1534 Philosopher 4 eating for 10 seconds
+1538 Philosopher 1 no longer eating -- calling putdown()
+1538 Philosopher 1 thinking for 8 seconds
+1539 Philosopher 2 no longer thinking -- calling pickup()
+1540 Total blocktime:  3935 :   769   815   797   803   751 
+1542 Philosopher 0 no longer thinking -- calling pickup()
+1544 Philosopher 4 no longer eating -- calling putdown()
+1544 Philosopher 4 thinking for 7 seconds
+1544 Philosopher 0 eating for 3 seconds
+1544 Philosopher 3 eating for 4 seconds
+1546 Philosopher 1 no longer thinking -- calling pickup()
+1547 Philosopher 0 no longer eating -- calling putdown()
+1547 Philosopher 0 thinking for 6 seconds
+1548 Philosopher 3 no longer eating -- calling putdown()
+1548 Philosopher 3 thinking for 9 seconds
+1548 Philosopher 2 eating for 3 seconds
+1550 Total blocktime:  3953 :   771   819   805   807   751 
+1551 Philosopher 4 no longer thinking -- calling pickup()
+1551 Philosopher 4 eating for 2 seconds
+1551 Philosopher 2 no longer eating -- calling putdown()
+1551 Philosopher 2 thinking for 3 seconds
+1551 Philosopher 1 eating for 8 seconds
+1553 Philosopher 4 no longer eating -- calling putdown()
+1553 Philosopher 4 thinking for 3 seconds
+1553 Philosopher 0 no longer thinking -- calling pickup()
+1554 Philosopher 2 no longer thinking -- calling pickup()
+1556 Philosopher 4 no longer thinking -- calling pickup()
+1557 Philosopher 3 no longer thinking -- calling pickup()
+1559 Philosopher 1 no longer eating -- calling putdown()
+1559 Philosopher 1 thinking for 7 seconds
+1559 Philosopher 0 eating for 9 seconds
+1560 Total blocktime:  3973 :   777   820   811   810   755 
+1566 Philosopher 1 no longer thinking -- calling pickup()
+1568 Philosopher 0 no longer eating -- calling putdown()
+1568 Philosopher 0 thinking for 10 seconds
+1568 Philosopher 4 eating for 7 seconds
+1570 Total blocktime:  4005 :   777   824   821   820   763 
+1575 Philosopher 4 no longer eating -- calling putdown()
+1575 Philosopher 4 thinking for 1 second
+1575 Philosopher 3 eating for 6 seconds
+1576 Philosopher 4 no longer thinking -- calling pickup()
+1578 Philosopher 0 no longer thinking -- calling pickup()
+1580 Total blocktime:  4036 :   779   834   831   825   767 
+1581 Philosopher 3 no longer eating -- calling putdown()
+1581 Philosopher 3 thinking for 6 seconds
+1581 Philosopher 2 eating for 6 seconds
+1587 Philosopher 3 no longer thinking -- calling pickup()
+1587 Philosopher 2 no longer eating -- calling putdown()
+1587 Philosopher 2 thinking for 10 seconds
+1587 Philosopher 1 eating for 3 seconds
+1590 Philosopher 1 no longer eating -- calling putdown()
+1590 Philosopher 1 thinking for 9 seconds
+1590 Philosopher 0 eating for 10 seconds
+1590 Total blocktime:  4067 :   789   841   832   828   777 
+1597 Philosopher 2 no longer thinking -- calling pickup()
+1599 Philosopher 1 no longer thinking -- calling pickup()
+1600 Philosopher 0 no longer eating -- calling putdown()
+1600 Philosopher 0 thinking for 8 seconds
+1600 Philosopher 4 eating for 8 seconds
+1600 Total blocktime:  4091 :   789   842   835   838   787 
+1608 Philosopher 0 no longer thinking -- calling pickup()
+1608 Philosopher 4 no longer eating -- calling putdown()
+1608 Philosopher 4 thinking for 4 seconds
+1608 Philosopher 3 eating for 8 seconds
+1610 Total blocktime:  4121 :   791   852   845   846   787 
+1612 Philosopher 4 no longer thinking -- calling pickup()
+1616 Philosopher 3 no longer eating -- calling putdown()
+1616 Philosopher 3 thinking for 10 seconds
+1616 Philosopher 2 eating for 3 seconds
+1619 Philosopher 2 no longer eating -- calling putdown()
+1619 Philosopher 2 thinking for 3 seconds
+1619 Philosopher 1 eating for 9 seconds
+1620 Total blocktime:  4154 :   801   861   851   846   795 
+1622 Philosopher 2 no longer thinking -- calling pickup()
+1626 Philosopher 3 no longer thinking -- calling pickup()
+1628 Philosopher 1 no longer eating -- calling putdown()
+1628 Philosopher 1 thinking for 10 seconds
+1628 Philosopher 0 eating for 1 second
+1629 Philosopher 0 no longer eating -- calling putdown()
+1629 Philosopher 0 thinking for 3 seconds
+1629 Philosopher 4 eating for 5 seconds
+1630 Total blocktime:  4183 :   809   861   859   850   804 
+1632 Philosopher 0 no longer thinking -- calling pickup()
+1634 Philosopher 4 no longer eating -- calling putdown()
+1634 Philosopher 4 thinking for 8 seconds
+1634 Philosopher 0 eating for 1 second
+1634 Philosopher 3 eating for 9 seconds
+1635 Philosopher 0 no longer eating -- calling putdown()
+1635 Philosopher 0 thinking for 9 seconds
+1638 Philosopher 1 no longer thinking -- calling pickup()
+1640 Total blocktime:  4201 :   811   863   869   854   804 
+1642 Philosopher 4 no longer thinking -- calling pickup()
+1643 Philosopher 3 no longer eating -- calling putdown()
+1643 Philosopher 3 thinking for 5 seconds
+1643 Philosopher 4 eating for 7 seconds
+1643 Philosopher 2 eating for 3 seconds
+1644 Philosopher 0 no longer thinking -- calling pickup()
+1646 Philosopher 2 no longer eating -- calling putdown()
+1646 Philosopher 2 thinking for 2 seconds
+1646 Philosopher 1 eating for 7 seconds
+1648 Philosopher 3 no longer thinking -- calling pickup()
+1648 Philosopher 2 no longer thinking -- calling pickup()
+1650 Philosopher 4 no longer eating -- calling putdown()
+1650 Philosopher 4 thinking for 3 seconds
+1650 Philosopher 3 eating for 10 seconds
+1650 Total blocktime:  4221 :   817   869   874   856   805 
+1653 Philosopher 4 no longer thinking -- calling pickup()
+1653 Philosopher 1 no longer eating -- calling putdown()
+1653 Philosopher 1 thinking for 8 seconds
+1653 Philosopher 0 eating for 10 seconds
+1660 Philosopher 3 no longer eating -- calling putdown()
+1660 Philosopher 3 thinking for 6 seconds
+1660 Philosopher 2 eating for 5 seconds
+1660 Total blocktime:  4241 :   820   869   884   856   812 
+1661 Philosopher 1 no longer thinking -- calling pickup()
+1663 Philosopher 0 no longer eating -- calling putdown()
+1663 Philosopher 0 thinking for 10 seconds
+1663 Philosopher 4 eating for 8 seconds
+1665 Philosopher 2 no longer eating -- calling putdown()
+1665 Philosopher 2 thinking for 3 seconds
+1665 Philosopher 1 eating for 9 seconds
+1666 Philosopher 3 no longer thinking -- calling pickup()
+1668 Philosopher 2 no longer thinking -- calling pickup()
+1670 Total blocktime:  4254 :   820   873   886   860   815 
+1671 Philosopher 4 no longer eating -- calling putdown()
+1671 Philosopher 4 thinking for 7 seconds
+1671 Philosopher 3 eating for 10 seconds
+1673 Philosopher 0 no longer thinking -- calling pickup()
+1674 Philosopher 1 no longer eating -- calling putdown()
+1674 Philosopher 1 thinking for 4 seconds
+1674 Philosopher 0 eating for 4 seconds
+1678 Philosopher 4 no longer thinking -- calling pickup()
+1678 Philosopher 1 no longer thinking -- calling pickup()
+1678 Philosopher 0 no longer eating -- calling putdown()
+1678 Philosopher 0 thinking for 1 second
+1679 Philosopher 0 no longer thinking -- calling pickup()
+1680 Total blocktime:  4271 :   822   875   896   861   817 
+1681 Philosopher 3 no longer eating -- calling putdown()
+1681 Philosopher 3 thinking for 6 seconds
+1681 Philosopher 2 eating for 8 seconds
+1687 Philosopher 3 no longer thinking -- calling pickup()
+1689 Philosopher 2 no longer eating -- calling putdown()
+1689 Philosopher 2 thinking for 1 second
+1689 Philosopher 1 eating for 7 seconds
+1690 Philosopher 2 no longer thinking -- calling pickup()
+1690 Total blocktime:  4304 :   832   884   897   864   827 
+1696 Philosopher 1 no longer eating -- calling putdown()
+1696 Philosopher 1 thinking for 8 seconds
+1696 Philosopher 0 eating for 3 seconds
+1699 Philosopher 0 no longer eating -- calling putdown()
+1699 Philosopher 0 thinking for 1 second
+1699 Philosopher 4 eating for 5 seconds
+1700 Philosopher 0 no longer thinking -- calling pickup()
+1700 Total blocktime:  4339 :   838   884   907   874   836 
+1704 Philosopher 1 no longer thinking -- calling pickup()
+1704 Philosopher 4 no longer eating -- calling putdown()
+1704 Philosopher 4 thinking for 3 seconds
+1704 Philosopher 3 eating for 10 seconds
+1707 Philosopher 4 no longer thinking -- calling pickup()
+1710 Total blocktime:  4372 :   848   890   917   878   839 
+1714 Philosopher 3 no longer eating -- calling putdown()
+1714 Philosopher 3 thinking for 3 seconds
+1714 Philosopher 2 eating for 8 seconds
+1717 Philosopher 3 no longer thinking -- calling pickup()
+1720 Total blocktime:  4409 :   858   900   921   881   849 
+1722 Philosopher 2 no longer eating -- calling putdown()
+1722 Philosopher 2 thinking for 8 seconds
+1722 Philosopher 1 eating for 8 seconds
+1730 Philosopher 2 no longer thinking -- calling pickup()
+1730 Philosopher 1 no longer eating -- calling putdown()
+1730 Philosopher 1 thinking for 1 second
+1730 Philosopher 0 eating for 4 seconds
+1730 Total blocktime:  4441 :   868   902   921   891   859 
+1731 Philosopher 1 no longer thinking -- calling pickup()
+1734 Philosopher 0 no longer eating -- calling putdown()
+1734 Philosopher 0 thinking for 2 seconds
+1734 Philosopher 4 eating for 10 seconds
+1736 Philosopher 0 no longer thinking -- calling pickup()
+1740 Total blocktime:  4478 :   872   911   931   901   863 
+1744 Philosopher 4 no longer eating -- calling putdown()
+1744 Philosopher 4 thinking for 3 seconds
+1744 Philosopher 3 eating for 1 second
+1745 Philosopher 3 no longer eating -- calling putdown()
+1745 Philosopher 3 thinking for 5 seconds
+1745 Philosopher 2 eating for 8 seconds
+1747 Philosopher 4 no longer thinking -- calling pickup()
+1750 Philosopher 3 no longer thinking -- calling pickup()
+1750 Total blocktime:  4510 :   882   921   936   905   866 
+1753 Philosopher 2 no longer eating -- calling putdown()
+1753 Philosopher 2 thinking for 2 seconds
+1753 Philosopher 1 eating for 5 seconds
+1755 Philosopher 2 no longer thinking -- calling pickup()
+1758 Philosopher 1 no longer eating -- calling putdown()
+1758 Philosopher 1 thinking for 2 seconds
+1758 Philosopher 0 eating for 1 second
+1759 Philosopher 0 no longer eating -- calling putdown()
+1759 Philosopher 0 thinking for 1 second
+1759 Philosopher 4 eating for 4 seconds
+1760 Philosopher 1 no longer thinking -- calling pickup()
+1760 Philosopher 0 no longer thinking -- calling pickup()
+1760 Total blocktime:  4545 :   890   924   941   915   875 
+1763 Philosopher 4 no longer eating -- calling putdown()
+1763 Philosopher 4 thinking for 4 seconds
+1763 Philosopher 3 eating for 7 seconds
+1767 Philosopher 4 no longer thinking -- calling pickup()
+1770 Philosopher 3 no longer eating -- calling putdown()
+1770 Philosopher 3 thinking for 4 seconds
+1770 Philosopher 2 eating for 2 seconds
+1770 Total blocktime:  4581 :   900   934   951   918   878 
+1772 Philosopher 2 no longer eating -- calling putdown()
+1772 Philosopher 2 thinking for 4 seconds
+1772 Philosopher 1 eating for 5 seconds
+1774 Philosopher 3 no longer thinking -- calling pickup()
+1776 Philosopher 2 no longer thinking -- calling pickup()
+1777 Philosopher 1 no longer eating -- calling putdown()
+1777 Philosopher 1 thinking for 8 seconds
+1777 Philosopher 0 eating for 4 seconds
+1780 Total blocktime:  4610 :   907   936   955   924   888 
+1781 Philosopher 0 no longer eating -- calling putdown()
+1781 Philosopher 0 thinking for 7 seconds
+1781 Philosopher 4 eating for 1 second
+1782 Philosopher 4 no longer eating -- calling putdown()
+1782 Philosopher 4 thinking for 10 seconds
+1782 Philosopher 3 eating for 2 seconds
+1784 Philosopher 3 no longer eating -- calling putdown()
+1784 Philosopher 3 thinking for 2 seconds
+1784 Philosopher 2 eating for 5 seconds
+1785 Philosopher 1 no longer thinking -- calling pickup()
+1786 Philosopher 3 no longer thinking -- calling pickup()
+1788 Philosopher 0 no longer thinking -- calling pickup()
+1789 Philosopher 2 no longer eating -- calling putdown()
+1789 Philosopher 2 thinking for 1 second
+1789 Philosopher 3 eating for 9 seconds
+1789 Philosopher 1 eating for 2 seconds
+1790 Philosopher 2 no longer thinking -- calling pickup()
+1790 Total blocktime:  4626 :   909   940   959   929   889 
+1791 Philosopher 1 no longer eating -- calling putdown()
+1791 Philosopher 1 thinking for 1 second
+1791 Philosopher 0 eating for 2 seconds
+1792 Philosopher 4 no longer thinking -- calling pickup()
+1792 Philosopher 1 no longer thinking -- calling pickup()
+1793 Philosopher 0 no longer eating -- calling putdown()
+1793 Philosopher 0 thinking for 3 seconds
+1796 Philosopher 0 no longer thinking -- calling pickup()
+1798 Philosopher 3 no longer eating -- calling putdown()
+1798 Philosopher 3 thinking for 2 seconds
+1798 Philosopher 2 eating for 5 seconds
+1800 Philosopher 3 no longer thinking -- calling pickup()
+1800 Total blocktime:  4655 :   914   948   967   929   897 
+1803 Philosopher 2 no longer eating -- calling putdown()
+1803 Philosopher 2 thinking for 5 seconds
+1803 Philosopher 1 eating for 9 seconds
+1808 Philosopher 2 no longer thinking -- calling pickup()
+1810 Total blocktime:  4690 :   924   951   969   939   907 
+1812 Philosopher 1 no longer eating -- calling putdown()
+1812 Philosopher 1 thinking for 4 seconds
+1812 Philosopher 0 eating for 7 seconds
+1816 Philosopher 1 no longer thinking -- calling pickup()
+1819 Philosopher 0 no longer eating -- calling putdown()
+1819 Philosopher 0 thinking for 5 seconds
+1819 Philosopher 4 eating for 5 seconds
+1820 Total blocktime:  4725 :   926   955   979   949   916 
+1824 Philosopher 0 no longer thinking -- calling pickup()
+1824 Philosopher 4 no longer eating -- calling putdown()
+1824 Philosopher 4 thinking for 7 seconds
+1824 Philosopher 3 eating for 5 seconds
+1829 Philosopher 3 no longer eating -- calling putdown()
+1829 Philosopher 3 thinking for 10 seconds
+1829 Philosopher 2 eating for 2 seconds
+1830 Total blocktime:  4754 :   932   965   988   953   916 
+1831 Philosopher 4 no longer thinking -- calling pickup()
+1831 Philosopher 2 no longer eating -- calling putdown()
+1831 Philosopher 2 thinking for 3 seconds
+1831 Philosopher 1 eating for 4 seconds
+1834 Philosopher 2 no longer thinking -- calling pickup()
+1835 Philosopher 1 no longer eating -- calling putdown()
+1835 Philosopher 1 thinking for 5 seconds
+1835 Philosopher 2 eating for 7 seconds
+1835 Philosopher 0 eating for 8 seconds
+1839 Philosopher 3 no longer thinking -- calling pickup()
+1840 Philosopher 1 no longer thinking -- calling pickup()
+1840 Total blocktime:  4771 :   937   966   989   954   925 
+1842 Philosopher 2 no longer eating -- calling putdown()
+1842 Philosopher 2 thinking for 3 seconds
+1843 Philosopher 0 no longer eating -- calling putdown()
+1843 Philosopher 0 thinking for 2 seconds
+1843 Philosopher 1 eating for 6 seconds
+1843 Philosopher 4 eating for 5 seconds
+1845 Philosopher 2 no longer thinking -- calling pickup()
+1845 Philosopher 0 no longer thinking -- calling pickup()
+1848 Philosopher 4 no longer eating -- calling putdown()
+1848 Philosopher 4 thinking for 1 second
+1848 Philosopher 3 eating for 9 seconds
+1849 Philosopher 1 no longer eating -- calling putdown()
+1849 Philosopher 1 thinking for 6 seconds
+1849 Philosopher 0 eating for 5 seconds
+1849 Philosopher 4 no longer thinking -- calling pickup()
+1850 Total blocktime:  4795 :   941   969   994   962   929 
+1854 Philosopher 0 no longer eating -- calling putdown()
+1854 Philosopher 0 thinking for 9 seconds
+1855 Philosopher 1 no longer thinking -- calling pickup()
+1857 Philosopher 3 no longer eating -- calling putdown()
+1857 Philosopher 3 thinking for 4 seconds
+1857 Philosopher 4 eating for 6 seconds
+1857 Philosopher 2 eating for 1 second
+1858 Philosopher 2 no longer eating -- calling putdown()
+1858 Philosopher 2 thinking for 7 seconds
+1858 Philosopher 1 eating for 10 seconds
+1860 Total blocktime:  4812 :   941   972  1001   962   936 
+1861 Philosopher 3 no longer thinking -- calling pickup()
+1863 Philosopher 0 no longer thinking -- calling pickup()
+1863 Philosopher 4 no longer eating -- calling putdown()
+1863 Philosopher 4 thinking for 3 seconds
+1863 Philosopher 3 eating for 3 seconds
+1865 Philosopher 2 no longer thinking -- calling pickup()
+1866 Philosopher 4 no longer thinking -- calling pickup()
+1866 Philosopher 3 no longer eating -- calling putdown()
+1866 Philosopher 3 thinking for 5 seconds
+1868 Philosopher 1 no longer eating -- calling putdown()
+1868 Philosopher 1 thinking for 3 seconds
+1868 Philosopher 2 eating for 6 seconds
+1868 Philosopher 0 eating for 1 second
+1869 Philosopher 0 no longer eating -- calling putdown()
+1869 Philosopher 0 thinking for 7 seconds
+1869 Philosopher 4 eating for 3 seconds
+1870 Total blocktime:  4825 :   946   972  1004   964   939 
+1871 Philosopher 3 no longer thinking -- calling pickup()
+1871 Philosopher 1 no longer thinking -- calling pickup()
+1872 Philosopher 4 no longer eating -- calling putdown()
+1872 Philosopher 4 thinking for 9 seconds
+1874 Philosopher 2 no longer eating -- calling putdown()
+1874 Philosopher 2 thinking for 3 seconds
+1874 Philosopher 3 eating for 2 seconds
+1874 Philosopher 1 eating for 2 seconds
+1876 Philosopher 0 no longer thinking -- calling pickup()
+1876 Philosopher 3 no longer eating -- calling putdown()
+1876 Philosopher 3 thinking for 6 seconds
+1876 Philosopher 1 no longer eating -- calling putdown()
+1876 Philosopher 1 thinking for 7 seconds
+1876 Philosopher 0 eating for 7 seconds
+1877 Philosopher 2 no longer thinking -- calling pickup()
+1877 Philosopher 2 eating for 4 seconds
+1880 Total blocktime:  4831 :   946   975  1004   967   939 
+1881 Philosopher 4 no longer thinking -- calling pickup()
+1881 Philosopher 2 no longer eating -- calling putdown()
+1881 Philosopher 2 thinking for 6 seconds
+1882 Philosopher 3 no longer thinking -- calling pickup()
+1883 Philosopher 1 no longer thinking -- calling pickup()
+1883 Philosopher 0 no longer eating -- calling putdown()
+1883 Philosopher 0 thinking for 1 second
+1883 Philosopher 1 eating for 5 seconds
+1883 Philosopher 4 eating for 2 seconds
+1884 Philosopher 0 no longer thinking -- calling pickup()
+1885 Philosopher 4 no longer eating -- calling putdown()
+1885 Philosopher 4 thinking for 5 seconds
+1885 Philosopher 3 eating for 7 seconds
+1887 Philosopher 2 no longer thinking -- calling pickup()
+1888 Philosopher 1 no longer eating -- calling putdown()
+1888 Philosopher 1 thinking for 2 seconds
+1888 Philosopher 0 eating for 10 seconds
+1890 Philosopher 1 no longer thinking -- calling pickup()
+1890 Philosopher 4 no longer thinking -- calling pickup()
+1890 Total blocktime:  4843 :   950   975  1007   970   941 
+1892 Philosopher 3 no longer eating -- calling putdown()
+1892 Philosopher 3 thinking for 2 seconds
+1892 Philosopher 2 eating for 1 second
+1893 Philosopher 2 no longer eating -- calling putdown()
+1893 Philosopher 2 thinking for 5 seconds
+1894 Philosopher 3 no longer thinking -- calling pickup()
+1898 Philosopher 0 no longer eating -- calling putdown()
+1898 Philosopher 0 thinking for 9 seconds
+1898 Philosopher 1 eating for 3 seconds
+1898 Philosopher 4 eating for 1 second
+1898 Philosopher 2 no longer thinking -- calling pickup()
+1899 Philosopher 4 no longer eating -- calling putdown()
+1899 Philosopher 4 thinking for 1 second
+1899 Philosopher 3 eating for 5 seconds
+1900 Philosopher 4 no longer thinking -- calling pickup()
+1900 Total blocktime:  4868 :   950   983  1011   975   949 
+1901 Philosopher 1 no longer eating -- calling putdown()
+1901 Philosopher 1 thinking for 4 seconds
+1904 Philosopher 3 no longer eating -- calling putdown()
+1904 Philosopher 3 thinking for 5 seconds
+1904 Philosopher 4 eating for 9 seconds
+1904 Philosopher 2 eating for 1 second
+1905 Philosopher 1 no longer thinking -- calling pickup()
+1905 Philosopher 2 no longer eating -- calling putdown()
+1905 Philosopher 2 thinking for 7 seconds
+1905 Philosopher 1 eating for 5 seconds
+1907 Philosopher 0 no longer thinking -- calling pickup()
+1909 Philosopher 3 no longer thinking -- calling pickup()
+1910 Philosopher 1 no longer eating -- calling putdown()
+1910 Philosopher 1 thinking for 5 seconds
+1910 Total blocktime:  4880 :   953   983  1015   976   953 
+1912 Philosopher 2 no longer thinking -- calling pickup()
+1913 Philosopher 4 no longer eating -- calling putdown()
+1913 Philosopher 4 thinking for 7 seconds
+1913 Philosopher 0 eating for 8 seconds
+1913 Philosopher 3 eating for 7 seconds
+1915 Philosopher 1 no longer thinking -- calling pickup()
+1920 Philosopher 4 no longer thinking -- calling pickup()
+1920 Philosopher 3 no longer eating -- calling putdown()
+1920 Philosopher 3 thinking for 8 seconds
+1920 Philosopher 2 eating for 3 seconds
+1920 Total blocktime:  4899 :   956   988  1023   979   953 
+1921 Philosopher 0 no longer eating -- calling putdown()
+1921 Philosopher 0 thinking for 3 seconds
+1921 Philosopher 4 eating for 4 seconds
+1923 Philosopher 2 no longer eating -- calling putdown()
+1923 Philosopher 2 thinking for 8 seconds
+1923 Philosopher 1 eating for 1 second
+1924 Philosopher 0 no longer thinking -- calling pickup()
+1924 Philosopher 1 no longer eating -- calling putdown()
+1924 Philosopher 1 thinking for 4 seconds
+1925 Philosopher 4 no longer eating -- calling putdown()
+1925 Philosopher 4 thinking for 2 seconds
+1925 Philosopher 0 eating for 4 seconds
+1927 Philosopher 4 no longer thinking -- calling pickup()
+1928 Philosopher 3 no longer thinking -- calling pickup()
+1928 Philosopher 1 no longer thinking -- calling pickup()
+1929 Philosopher 0 no longer eating -- calling putdown()
+1929 Philosopher 0 thinking for 10 seconds
+1929 Philosopher 1 eating for 8 seconds
+1929 Philosopher 4 eating for 5 seconds
+1930 Total blocktime:  4909 :   957   992  1023   981   956 
+1931 Philosopher 2 no longer thinking -- calling pickup()
+1934 Philosopher 4 no longer eating -- calling putdown()
+1934 Philosopher 4 thinking for 1 second
+1934 Philosopher 3 eating for 1 second
+1935 Philosopher 4 no longer thinking -- calling pickup()
+1935 Philosopher 3 no longer eating -- calling putdown()
+1935 Philosopher 3 thinking for 5 seconds
+1935 Philosopher 4 eating for 5 seconds
+1937 Philosopher 1 no longer eating -- calling putdown()
+1937 Philosopher 1 thinking for 10 seconds
+1937 Philosopher 2 eating for 8 seconds
+1939 Philosopher 0 no longer thinking -- calling pickup()
+1940 Philosopher 3 no longer thinking -- calling pickup()
+1940 Philosopher 4 no longer eating -- calling putdown()
+1940 Philosopher 4 thinking for 8 seconds
+1940 Philosopher 0 eating for 10 seconds
+1940 Total blocktime:  4920 :   958   992  1029   985   956 
+1945 Philosopher 2 no longer eating -- calling putdown()
+1945 Philosopher 2 thinking for 4 seconds
+1945 Philosopher 3 eating for 1 second
+1946 Philosopher 3 no longer eating -- calling putdown()
+1946 Philosopher 3 thinking for 6 seconds
+1947 Philosopher 1 no longer thinking -- calling pickup()
+1948 Philosopher 4 no longer thinking -- calling pickup()
+1949 Philosopher 2 no longer thinking -- calling pickup()
+1949 Philosopher 2 eating for 3 seconds
+1950 Philosopher 0 no longer eating -- calling putdown()
+1950 Philosopher 0 thinking for 3 seconds
+1950 Philosopher 4 eating for 4 seconds
+1950 Total blocktime:  4930 :   958   995  1029   990   958 
+1952 Philosopher 2 no longer eating -- calling putdown()
+1952 Philosopher 2 thinking for 9 seconds
+1952 Philosopher 1 eating for 8 seconds
+1952 Philosopher 3 no longer thinking -- calling pickup()
+1953 Philosopher 0 no longer thinking -- calling pickup()
+1954 Philosopher 4 no longer eating -- calling putdown()
+1954 Philosopher 4 thinking for 10 seconds
+1954 Philosopher 3 eating for 8 seconds
+1960 Philosopher 1 no longer eating -- calling putdown()
+1960 Philosopher 1 thinking for 4 seconds
+1960 Philosopher 0 eating for 7 seconds
+1960 Total blocktime:  4941 :   965   997  1029   992   958 
+1961 Philosopher 2 no longer thinking -- calling pickup()
+1962 Philosopher 3 no longer eating -- calling putdown()
+1962 Philosopher 3 thinking for 2 seconds
+1962 Philosopher 2 eating for 8 seconds
+1964 Philosopher 1 no longer thinking -- calling pickup()
+1964 Philosopher 4 no longer thinking -- calling pickup()
+1964 Philosopher 3 no longer thinking -- calling pickup()
+1967 Philosopher 0 no longer eating -- calling putdown()
+1967 Philosopher 0 thinking for 3 seconds
+1967 Philosopher 4 eating for 9 seconds
+1970 Philosopher 0 no longer thinking -- calling pickup()
+1970 Philosopher 2 no longer eating -- calling putdown()
+1970 Philosopher 2 thinking for 10 seconds
+1970 Philosopher 1 eating for 6 seconds
+1970 Total blocktime:  4957 :   965  1003  1030   998   961 
+1976 Philosopher 4 no longer eating -- calling putdown()
+1976 Philosopher 4 thinking for 2 seconds
+1976 Philosopher 3 eating for 3 seconds
+1976 Philosopher 1 no longer eating -- calling putdown()
+1976 Philosopher 1 thinking for 8 seconds
+1976 Philosopher 0 eating for 10 seconds
+1978 Philosopher 4 no longer thinking -- calling pickup()
+1979 Philosopher 3 no longer eating -- calling putdown()
+1979 Philosopher 3 thinking for 8 seconds
+1980 Philosopher 2 no longer thinking -- calling pickup()
+1980 Philosopher 2 eating for 8 seconds
+1980 Total blocktime:  4971 :   971  1003  1030  1004   963 
+1984 Philosopher 1 no longer thinking -- calling pickup()
+1986 Philosopher 0 no longer eating -- calling putdown()
+1986 Philosopher 0 thinking for 2 seconds
+1986 Philosopher 4 eating for 2 seconds
+1987 Philosopher 3 no longer thinking -- calling pickup()
+1988 Philosopher 2 no longer eating -- calling putdown()
+1988 Philosopher 2 thinking for 5 seconds
+1988 Philosopher 1 eating for 1 second
+1988 Philosopher 0 no longer thinking -- calling pickup()
+1988 Philosopher 4 no longer eating -- calling putdown()
+1988 Philosopher 4 thinking for 1 second
+1988 Philosopher 3 eating for 2 seconds
+1989 Philosopher 1 no longer eating -- calling putdown()
+1989 Philosopher 1 thinking for 2 seconds
+1989 Philosopher 0 eating for 7 seconds
+1989 Philosopher 4 no longer thinking -- calling pickup()
+1990 Philosopher 3 no longer eating -- calling putdown()
+1990 Philosopher 3 thinking for 4 seconds
+1990 Total blocktime:  4984 :   972  1007  1030  1005   970 
+1991 Philosopher 1 no longer thinking -- calling pickup()
+1993 Philosopher 2 no longer thinking -- calling pickup()
+1993 Philosopher 2 eating for 9 seconds
+1994 Philosopher 3 no longer thinking -- calling pickup()
+1996 Philosopher 0 no longer eating -- calling putdown()
+1996 Philosopher 0 thinking for 1 second
+1996 Philosopher 4 eating for 6 seconds
+1997 Philosopher 0 no longer thinking -- calling pickup()
+2000 Total blocktime:  5008 :   975  1016  1030  1011   976 
+2002 Philosopher 2 no longer eating -- calling putdown()
+2002 Philosopher 2 thinking for 2 seconds
+2002 Philosopher 1 eating for 9 seconds
+2002 Philosopher 4 no longer eating -- calling putdown()
+2002 Philosopher 4 thinking for 3 seconds
+2002 Philosopher 3 eating for 1 second
+2003 Philosopher 3 no longer eating -- calling putdown()
+2003 Philosopher 3 thinking for 9 seconds
+2004 Philosopher 2 no longer thinking -- calling pickup()
+2005 Philosopher 4 no longer thinking -- calling pickup()
+2010 Total blocktime:  5033 :   985  1018  1036  1013   981 
+2011 Philosopher 1 no longer eating -- calling putdown()
+2011 Philosopher 1 thinking for 8 seconds
+2011 Philosopher 2 eating for 10 seconds
+2011 Philosopher 0 eating for 2 seconds
+2012 Philosopher 3 no longer thinking -- calling pickup()
+2013 Philosopher 0 no longer eating -- calling putdown()
+2013 Philosopher 0 thinking for 8 seconds
+2013 Philosopher 4 eating for 2 seconds
+2015 Philosopher 4 no longer eating -- calling putdown()
+2015 Philosopher 4 thinking for 1 second
+2016 Philosopher 4 no longer thinking -- calling pickup()
+2016 Philosopher 4 eating for 7 seconds
+2019 Philosopher 1 no longer thinking -- calling pickup()
+2020 Total blocktime:  5047 :   986  1019  1037  1021   984 
+2021 Philosopher 2 no longer eating -- calling putdown()
+2021 Philosopher 2 thinking for 9 seconds
+2021 Philosopher 1 eating for 2 seconds
+2021 Philosopher 0 no longer thinking -- calling pickup()
+2023 Philosopher 1 no longer eating -- calling putdown()
+2023 Philosopher 1 thinking for 10 seconds
+2023 Philosopher 4 no longer eating -- calling putdown()
+2023 Philosopher 4 thinking for 6 seconds
+2023 Philosopher 0 eating for 3 seconds
+2023 Philosopher 3 eating for 7 seconds
+2026 Philosopher 0 no longer eating -- calling putdown()
+2026 Philosopher 0 thinking for 6 seconds
+2029 Philosopher 4 no longer thinking -- calling pickup()
+2030 Philosopher 2 no longer thinking -- calling pickup()
+2030 Philosopher 3 no longer eating -- calling putdown()
+2030 Philosopher 3 thinking for 5 seconds
+2030 Philosopher 4 eating for 10 seconds
+2030 Philosopher 2 eating for 10 seconds
+2030 Total blocktime:  5054 :   988  1020  1037  1024   985 
+2032 Philosopher 0 no longer thinking -- calling pickup()
+2033 Philosopher 1 no longer thinking -- calling pickup()
+2035 Philosopher 3 no longer thinking -- calling pickup()
+2040 Philosopher 4 no longer eating -- calling putdown()
+2040 Philosopher 4 thinking for 7 seconds
+2040 Philosopher 2 no longer eating -- calling putdown()
+2040 Philosopher 2 thinking for 3 seconds
+2040 Philosopher 3 eating for 3 seconds
+2040 Philosopher 1 eating for 1 second
+2040 Total blocktime:  5074 :   996  1027  1037  1029   985 
+2041 Philosopher 1 no longer eating -- calling putdown()
+2041 Philosopher 1 thinking for 9 seconds
+2041 Philosopher 0 eating for 6 seconds
+2043 Philosopher 2 no longer thinking -- calling pickup()
+2043 Philosopher 3 no longer eating -- calling putdown()
+2043 Philosopher 3 thinking for 9 seconds
+2043 Philosopher 2 eating for 9 seconds
+2047 Philosopher 4 no longer thinking -- calling pickup()
+2047 Philosopher 0 no longer eating -- calling putdown()
+2047 Philosopher 0 thinking for 3 seconds
+2047 Philosopher 4 eating for 3 seconds
+2050 Philosopher 1 no longer thinking -- calling pickup()
+2050 Philosopher 0 no longer thinking -- calling pickup()
+2050 Philosopher 4 no longer eating -- calling putdown()
+2050 Philosopher 4 thinking for 9 seconds
+2050 Total blocktime:  5075 :   997  1027  1037  1029   985 
+2052 Philosopher 3 no longer thinking -- calling pickup()
+2052 Philosopher 2 no longer eating -- calling putdown()
+2052 Philosopher 2 thinking for 8 seconds
+2052 Philosopher 3 eating for 5 seconds
+2052 Philosopher 1 eating for 7 seconds
+2057 Philosopher 3 no longer eating -- calling putdown()
+2057 Philosopher 3 thinking for 5 seconds
+2059 Philosopher 1 no longer eating -- calling putdown()
+2059 Philosopher 1 thinking for 4 seconds
+2059 Philosopher 0 eating for 1 second
+2059 Philosopher 4 no longer thinking -- calling pickup()
+2060 Philosopher 2 no longer thinking -- calling pickup()
+2060 Philosopher 2 eating for 4 seconds
+2060 Philosopher 0 no longer eating -- calling putdown()
+2060 Philosopher 0 thinking for 5 seconds
+2060 Philosopher 4 eating for 1 second
+2060 Total blocktime:  5087 :  1006  1029  1037  1029   986 
+2061 Philosopher 4 no longer eating -- calling putdown()
+2061 Philosopher 4 thinking for 3 seconds
+2062 Philosopher 3 no longer thinking -- calling pickup()
+2063 Philosopher 1 no longer thinking -- calling pickup()
+2064 Philosopher 2 no longer eating -- calling putdown()
+2064 Philosopher 2 thinking for 4 seconds
+2064 Philosopher 3 eating for 4 seconds
+2064 Philosopher 1 eating for 2 seconds
+2064 Philosopher 4 no longer thinking -- calling pickup()
+2065 Philosopher 0 no longer thinking -- calling pickup()
+2066 Philosopher 1 no longer eating -- calling putdown()
+2066 Philosopher 1 thinking for 9 seconds
+2066 Philosopher 0 eating for 9 seconds
+2068 Philosopher 2 no longer thinking -- calling pickup()
+2068 Philosopher 3 no longer eating -- calling putdown()
+2068 Philosopher 3 thinking for 10 seconds
+2068 Philosopher 2 eating for 6 seconds
+2070 Total blocktime:  5097 :  1007  1030  1037  1031   992 
+2074 Philosopher 2 no longer eating -- calling putdown()
+2074 Philosopher 2 thinking for 5 seconds
+2075 Philosopher 1 no longer thinking -- calling pickup()
+2075 Philosopher 0 no longer eating -- calling putdown()
+2075 Philosopher 0 thinking for 1 second
+2075 Philosopher 1 eating for 5 seconds
+2075 Philosopher 4 eating for 3 seconds
+2076 Philosopher 0 no longer thinking -- calling pickup()
+2078 Philosopher 3 no longer thinking -- calling pickup()
+2078 Philosopher 4 no longer eating -- calling putdown()
+2078 Philosopher 4 thinking for 3 seconds
+2078 Philosopher 3 eating for 7 seconds
+2079 Philosopher 2 no longer thinking -- calling pickup()
+2080 Philosopher 1 no longer eating -- calling putdown()
+2080 Philosopher 1 thinking for 3 seconds
+2080 Philosopher 0 eating for 1 second
+2080 Total blocktime:  5107 :  1011  1030  1038  1031   997 
+2081 Philosopher 4 no longer thinking -- calling pickup()
+2081 Philosopher 0 no longer eating -- calling putdown()
+2081 Philosopher 0 thinking for 4 seconds
+2083 Philosopher 1 no longer thinking -- calling pickup()
+2085 Philosopher 3 no longer eating -- calling putdown()
+2085 Philosopher 3 thinking for 4 seconds
+2085 Philosopher 4 eating for 1 second
+2085 Philosopher 2 eating for 9 seconds
+2085 Philosopher 0 no longer thinking -- calling pickup()
+2086 Philosopher 4 no longer eating -- calling putdown()
+2086 Philosopher 4 thinking for 6 seconds
+2089 Philosopher 3 no longer thinking -- calling pickup()
+2090 Total blocktime:  5129 :  1016  1037  1043  1032  1001 
+2092 Philosopher 4 no longer thinking -- calling pickup()
+2094 Philosopher 2 no longer eating -- calling putdown()
+2094 Philosopher 2 thinking for 2 seconds
+2094 Philosopher 1 eating for 6 seconds
+2096 Philosopher 2 no longer thinking -- calling pickup()
+2100 Philosopher 1 no longer eating -- calling putdown()
+2100 Philosopher 1 thinking for 10 seconds
+2100 Philosopher 0 eating for 10 seconds
+2100 Total blocktime:  5165 :  1026  1041  1047  1042  1009 
